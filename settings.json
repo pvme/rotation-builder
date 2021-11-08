@@ -221,16 +221,20 @@
         "Shatter"
     ],
     "<:smoketendrils:536257336130404372>": [
-        "smoketendrils"
+        "smoketendrils",
+        "smoketend",
+        "smoketends"
     ],
     "<:salve:536257870178549781>": [
         "salve"
     ],
     "<:vengeful_kiteshield:536258767344500746>": [
-        "vengeful_kiteshield"
+        "vengefulkiteshield",
+        "vengeful"
     ],
     "<:Merciless_kiteshield:536258779730411531>": [
-        "Merciless_kiteshield"
+        "Mercilesskiteshield",
+        "merciless"
     ],
     "<:jas:662032366667300875>": [
         "jas"
@@ -239,7 +243,8 @@
         "spices"
     ],
     "<:dommine:662249620579155968>": [
-        "dommine"
+        "dommine",
+        "dominionmine"
     ],
     "<:eliterangerboots:678156407668867082>": [
         "eliterangerboots"
@@ -266,10 +271,12 @@
         "weppoison"
     ],
     "<:greatgunkan:689528927928188963>": [
-        "greatgunkan"
+        "greatgunkan",
+        "gunkan"
     ],
     "<:blueblubber:689530593742291033>": [
-        "blueblubber"
+        "blueblubber",
+        "blubber"
     ],
     "<:thermalflask:689530593796423724>": [
         "thermalflask"
@@ -971,7 +978,8 @@
         "smokechest"
     ],
     "<:bloodtendril:643166809973063700>": [
-        "bloodtendril"
+        "bloodtendril",
+        "bloodtend"
     ],
     "<:telostendril:643166833901568001>": [
         "telostendril"
@@ -1061,7 +1069,8 @@
         "torstolseed"
     ],
     "<:ckey:643171300134617100>": [
-        "ckey"
+        "ckey",
+        "crystalkey"
     ],
     "<:malevenergy:643207275670011908>": [
         "malevenergy"
@@ -1436,7 +1445,8 @@
         "runepouch"
     ],
     "<:Sunshine:583430011948630016>": [
-        "Sunshine"
+        "Sunshine",
+        "Sun"
     ],
     "<:aoskit:583430147487563776>": [
         "aoskit"
@@ -1535,13 +1545,17 @@
         "escape"
     ],
     "<:res:535541258844635148>": [
-        "res"
+        "res",
+        "Resonance"
     ],
     "<:rejuvenate:535541258873995284>": [
         "rejuvenate"
     ],
     "<:ds:535541258924326912>": [
-        "ds"
+        "ds",
+        "deathsswiftness",
+        "deathswift",
+        "swift"
     ],
     "<:mds:535541259033378827>": [
         "mds"
@@ -1550,43 +1564,51 @@
         "needle"
     ],
     "<:stw:535541259109138463>": [
-        "stw"
+        "stw",
+        "saltthewound"
     ],
     "<:rout:535541259268521994>": [
         "rout"
     ],
     "<:voke:535541259465392143>": [
-        "voke"
+        "voke",
+        "provoke"
     ],
     "<:ricochet:535541259566186521>": [
-        "ricochet"
+        "ricochet",
+        "rico"
     ],
     "<:revenge:535541259645878302>": [
         "revenge"
     ],
     "<:rapid:535541270521708566>": [
-        "rapid"
+        "rapid",
+        "rapidfire"
     ],
     "<:frag:535541273755385885>": [
-        "frag"
+        "frag",
+        "fragshot"
     ],
     "<:tight:535541275957657600>": [
         "tight"
     ],
     "<:debil:535541278264393729>": [
-        "debil"
+        "debil",
+        "debilitate"
     ],
     "<:corruptshot:535541306294796299>": [
         "corruptshot"
     ],
     "<:cade:535541306353778689>": [
-        "cade"
+        "cade",
+        "barricade"
     ],
     "<:bombard:535541306391265284>": [
         "bombard"
     ],
     "<:anti:535541306475151390>": [
-        "anti"
+        "anti",
+        "anticipate"
     ],
     "<:bash:535541306546716692>": [
         "bash"
@@ -1634,7 +1656,8 @@
         "fortitude"
     ],
     "<:sd:537341954392850442>": [
-        "sd"
+        "sd",
+        "shielddome"
     ],
     "<:enhreplen:634350450887622656>": [
         "enhreplen"
@@ -1649,694 +1672,11 @@
         "supersara"
     ],
     "<:shadowtend:642713547142332416>": [
-        "shadowtend"
-    ],
-    "<:hypers:537092263524827156>": [
-        "hypers"
-    ],
-    "<:monkaS:537092264023949322>": [
-        "monkaS"
-    ],
-    "<:poggers:537092264086994955>": [
-        "poggers"
-    ],
-    "<:NotLikeThis:537092264405499905>": [
-        "NotLikeThis"
-    ],
-    "<:konCha:537092264430665729>": [
-        "konCha"
-    ],
-    "<:crabHype:537666989406289941>": [
-        "crabHype"
-    ],
-    "<:punoko:537837395253657620>": [
-        "punoko"
-    ],
-    "<:ping:540233562033750029>": [
-        "ping"
-    ],
-    "<:wesmart:541314758973063188>": [
-        "wesmart"
-    ],
-    "<:monkoz:580162180176019466>": [
-        "monkoz"
-    ],
-    "<:zonkom:580164679234486342>": [
-        "zonkom"
-    ],
-    "<:5head:580172701533077515>": [
-        "5head"
-    ],
-    "<:pikagasp:580172831434997791>": [
-        "pikagasp"
-    ],
-    "<:nootlikethis:581247673114558494>": [
-        "nootlikethis"
-    ],
-    "<:HOTDOGGERS:582722461674635264>": [
-        "HOTDOGGERS"
-    ],
-    "<:poggies:585536283397324802>": [
-        "poggies"
-    ],
-    "<:monkahmm:585536977089331201>": [
-        "monkahmm"
-    ],
-    "<:feelsneatman:585678098956025856>": [
-        "feelsneatman"
-    ],
-    "<:sad:585678099069403148>": [
-        "sad"
-    ],
-    "<:aceyGrr:585684489510977537>": [
-        "aceyGrr"
-    ],
-    "<:doggers:585684596423786496>": [
-        "doggers"
-    ],
-    "<:nou:585684621245677579>": [
-        "nou"
-    ],
-    "<:youtried:585830102546382848>": [
-        "youtried"
-    ],
-    "<:monkaW:586391844892442624>": [
-        "monkaW"
-    ],
-    "<:yeetpepe:586932408281071629>": [
-        "yeetpepe"
-    ],
-    "<:poggiesR:586999141385633792>": [
-        "poggiesR"
-    ],
-    "<:FeelsEhMan:589605003556290580>": [
-        "FeelsEhMan"
-    ],
-    "<:4house:589605155876634625>": [
-        "4house"
-    ],
-    "<:deflectflame:589609369541410816>": [
-        "deflectflame"
-    ],
-    "<:trackrun:589903627485839483>": [
-        "trackrun"
-    ],
-    "<:aiex:589997730802302976>": [
-        "aiex"
-    ],
-    "<:karan:591767575676059698>": [
-        "karan"
-    ],
-    "<:dhoggo:591768369363943430>": [
-        "dhoggo"
-    ],
-    "<:hoobs:596106291072729118>": [
-        "hoobs"
-    ],
-    "<:proem:596107962905526273>": [
-        "proem"
-    ],
-    "<:Doubt:596187674352812043>": [
-        "Doubt"
-    ],
-    "<:bigbrain:596187703272538134>": [
-        "bigbrain"
+        "shadowtend",
+        "shadowtendrils"
     ],
     "<:wrack:596187795677118465>": [
         "wrack"
-    ],
-    "<:whatthe:596187879793754113>": [
-        "whatthe"
-    ],
-    "<:zeroken:597012860215754752>": [
-        "zeroken"
-    ],
-    "<:karanLove:597926656145096704>": [
-        "karanLove"
-    ],
-    "<:dhoggoLove:598740439201349632>": [
-        "dhoggoLove"
-    ],
-    "<:fingerguns:603333988341514280>": [
-        "fingerguns"
-    ],
-    "<:cal:605943233419149312>": [
-        "cal"
-    ],
-    "<:calLove:605943264796999712>": [
-        "calLove"
-    ],
-    "<:aiexLove:609853660230320129>": [
-        "aiexLove"
-    ],
-    "<:proemLove:609853688495734805>": [
-        "proemLove"
-    ],
-    "<:hoobsLove:609855076852301937>": [
-        "hoobsLove"
-    ],
-    "<:zerokenLove:614579481104875553>": [
-        "zerokenLove"
-    ],
-    "<:frankLove:614580556436471834>": [
-        "frankLove"
-    ],
-    "<:VeryHappyCat:621939084474056718>": [
-        "VeryHappyCat"
-    ],
-    "<:widepeeposad:625776744909111296>": [
-        "widepeeposad"
-    ],
-    "<:Linie:626987406741995562>": [
-        "Linie"
-    ],
-    "<:harmlove:627015867611218059>": [
-        "harmlove"
-    ],
-    "<:monkaDiversity:627396760037359626>": [
-        "monkaDiversity"
-    ],
-    "<:monkachrist:631123100704178176>": [
-        "monkachrist"
-    ],
-    "<:mads:632078638623227905>": [
-        "mads"
-    ],
-    "<:scheme:632428646648250369>": [
-        "scheme"
-    ],
-    "<:KenyLove:635924412121481247>": [
-        "KenyLove"
-    ],
-    "<:PepeLaugh:637096187270529035>": [
-        "PepeLaugh"
-    ],
-    "<:whlove:641040966253412366>": [
-        "whlove"
-    ],
-    "<:PepegaHands:641341499728199681>": [
-        "PepegaHands"
-    ],
-    "<:4shrug:641359555795877918>": [
-        "4shrug"
-    ],
-    "<:POGUHANDS:641359559692124181>": [
-        "POGUHANDS"
-    ],
-    "<:nobully:641360252570304533>": [
-        "nobully"
-    ],
-    "<:peepoSmart:641524796290498563>": [
-        "peepoSmart"
-    ],
-    "<:angr:642440234180542464>": [
-        "angr"
-    ],
-    "<:sadkek:644286161833164826>": [
-        "sadkek"
-    ],
-    "<:cavebob:644324849514446859>": [
-        "cavebob"
-    ],
-    "<:verypogfrog:644981802427088897>": [
-        "verypogfrog"
-    ],
-    "<:verypogcat:646456702568235031>": [
-        "verypogcat"
-    ],
-    "<:verysadcat:648235020749897757>": [
-        "verysadcat"
-    ],
-    "<:peepeehands:649287224545902613>": [
-        "peepeehands"
-    ],
-    "<:WeirdChamp:651597166720319539>": [
-        "WeirdChamp"
-    ],
-    "<:trackLove:651892838614695936>": [
-        "trackLove"
-    ],
-    "<:Vorpogo:652771497525379072>": [
-        "Vorpogo"
-    ],
-    "<:yeehaw:652772692801617931>": [
-        "yeehaw"
-    ],
-    "<:MoPogBoy:652775192615059465>": [
-        "MoPogBoy"
-    ],
-    "<:pepegahug:655166140607102990>": [
-        "pepegahug"
-    ],
-    "<:niteLove:655496299348492288>": [
-        "niteLove"
-    ],
-    "<:KEKW:657691711413288979>": [
-        "KEKW"
-    ],
-    "<:veryangrycat:659607456762298387>": [
-        "veryangrycat"
-    ],
-    "<:LinieLove:660309245706764298>": [
-        "LinieLove"
-    ],
-    "<:vak:661359024121315331>": [
-        "vak"
-    ],
-    "<:vhk:661359047118684210>": [
-        "vhk"
-    ],
-    "<:vsk:661359077921652758>": [
-        "vsk"
-    ],
-    "<:acktually:662594322629263360>": [
-        "acktually"
-    ],
-    "<:Pielove:667103985072603219>": [
-        "Pielove"
-    ],
-    "<:g0attrPepelaf:667425392600285196>": [
-        "g0attrPepelaf"
-    ],
-    "<:piLove:671537559733534743>": [
-        "piLove"
-    ],
-    "<:piGod:671539575973216296>": [
-        "piGod"
-    ],
-    "<:rextLove:675937116722692106>": [
-        "rextLove"
-    ],
-    "<:gamedolflove:687434206132830445>": [
-        "gamedolflove"
-    ],
-    "<:kahava:689553645825425513>": [
-        "kahava"
-    ],
-    "<:ryyhenLove:690321399809835124>": [
-        "ryyhenLove"
-    ],
-    "<:LUL:697150763717361754>": [
-        "LUL"
-    ],
-    "<:yep:713408702652219392>": [
-        "yep"
-    ],
-    "<:PepeHands:717598992397238353>": [
-        "PepeHands"
-    ],
-    "<:pepelaughpoint:718655785017802822>": [
-        "pepelaughpoint"
-    ],
-    "<:PeepoHide:721934207894683678>": [
-        "PeepoHide"
-    ],
-    "<:flushedspite:735925617148690592>": [
-        "flushedspite"
-    ],
-    "<:flushedspitehug:735925646479458478>": [
-        "flushedspitehug"
-    ],
-    "<:pepegaclap:735926381464125561>": [
-        "pepegaclap"
-    ],
-    "<:PauseChamp:735926576197402694>": [
-        "PauseChamp"
-    ],
-    "<:hyperpeepoggers:735926789515378763>": [
-        "hyperpeepoggers"
-    ],
-    "<:pogu:740908276236943420>": [
-        "pogu"
-    ],
-    "<:flusheddinopausechamp:741301191161544765>": [
-        "flusheddinopausechamp"
-    ],
-    "<:cooldorry:743187736650842143>": [
-        "cooldorry"
-    ],
-    "<:flushedw:743822897109270630>": [
-        "flushedw"
-    ],
-    "<:Sadge:749389233667702834>": [
-        "Sadge"
-    ],
-    "<:weebsIn:750896068555702292>": [
-        "weebsIn"
-    ],
-    "<:Pagchomp:751176756962263121>": [
-        "Pagchomp"
-    ],
-    "<:flusheddinonotlikethis:755438543915974697>": [
-        "flusheddinonotlikethis"
-    ],
-    "<:nunu:757595669497380954>": [
-        "nunu"
-    ],
-    "<:worryfat:758667549680074782>": [
-        "worryfat"
-    ],
-    "<:cowggers:759501140588494898>": [
-        "cowggers"
-    ],
-    "<:peepoSpy:762571392494338068>": [
-        "peepoSpy"
-    ],
-    "<:Malevolove:763752056790974534>": [
-        "Malevolove"
-    ],
-    "<:NOP:764133928645689356>": [
-        "NOP"
-    ],
-    "<:hmmchamp:766375286433906719>": [
-        "hmmchamp"
-    ],
-    "<:okaychamp:766375435918376981>": [
-        "okaychamp"
-    ],
-    "<:54champ:766771151082225744>": [
-        "54champ"
-    ],
-    "<:ezWonder:767442176337641472>": [
-        "ezWonder"
-    ],
-    "<:Haltchamp:767477193223045171>": [
-        "Haltchamp"
-    ],
-    "<:WorryThink2:768402685169893376>": [
-        "WorryThink2"
-    ],
-    "<:madge:768590746029916202>": [
-        "madge"
-    ],
-    "<:flooshed:768984448057737277>": [
-        "flooshed"
-    ],
-    "<:wideworryhmm:769205749125218315>": [
-        "wideworryhmm"
-    ],
-    "<:worryCaprisun:769210485647999086>": [
-        "worryCaprisun"
-    ],
-    "<:worry:769211173207015444>": [
-        "worry"
-    ],
-    "<:verycrabcat:769356731330592798>": [
-        "verycrabcat"
-    ],
-    "<:PauseU:769421431079043093>": [
-        "PauseU"
-    ],
-    "<:SadChamp:769813626344177664>": [
-        "SadChamp"
-    ],
-    "<:Weirdge:770384544398180383>": [
-        "Weirdge"
-    ],
-    "<:DIDSOMEONESAYCOCK:770425835277778964>": [
-        "DIDSOMEONESAYCOCK"
-    ],
-    "<:worrySalute:770463648115589152>": [
-        "worrySalute"
-    ],
-    "<:worrysadsalute:770502210265546762>": [
-        "worrysadsalute"
-    ],
-    "<:evil_kermit:770845137349771264>": [
-        "evil_kermit"
-    ],
-    "<:worrypat:771125401769738290>": [
-        "worrypat"
-    ],
-    "<:worrypat2:771126039161995274>": [
-        "worrypat2"
-    ],
-    "<:worryWarm:772664556576833586>": [
-        "worryWarm"
-    ],
-    "<:madgeJuice:773258890715987998>": [
-        "madgeJuice"
-    ],
-    "<:monkaWtfusay:775410923338334239>": [
-        "monkaWtfusay"
-    ],
-    "<:molove:775604874741153802>": [
-        "molove"
-    ],
-    "<:Worrysalt:777558662558122005>": [
-        "Worrysalt"
-    ],
-    "<:PepeChamp:777981401806798859>": [
-        "PepeChamp"
-    ],
-    "<:pensiveguns:779046184559575040>": [
-        "pensiveguns"
-    ],
-    "<:flushedspiteheart:779209510166200320>": [
-        "flushedspiteheart"
-    ],
-    "<:freg:779441350520209488>": [
-        "freg"
-    ],
-    "<:verybirthdaycat:779480766790631461>": [
-        "verybirthdaycat"
-    ],
-    "<:kahvalove:779488039181352982>": [
-        "kahvalove"
-    ],
-    "<:tylerlove:779489597234085958>": [
-        "tylerlove"
-    ],
-    "<:franklove2:779489859395256380>": [
-        "franklove2"
-    ],
-    "<:gun:780178202718634024>": [
-        "gun"
-    ],
-    "<:DGLove:780899090976342086>": [
-        "DGLove"
-    ],
-    "<:pausechimp:782751738876788766>": [
-        "pausechimp"
-    ],
-    "<:sithfroggers:782833472158433301>": [
-        "sithfroggers"
-    ],
-    "<:PunokoW:784247633731649537>": [
-        "PunokoW"
-    ],
-    "<:4weird:784495081687613510>": [
-        "4weird"
-    ],
-    "<:worryLove:785004842103209994>": [
-        "worryLove"
-    ],
-    "<:blood_moon:785200660240793621>": [
-        "blood_moon"
-    ],
-    "<:pavuchamp:785406425216188416>": [
-        "pavuchamp"
-    ],
-    "<:karanirl:785408432211099648>": [
-        "karanirl"
-    ],
-    "<:santaclaws:785408581041651732>": [
-        "santaclaws"
-    ],
-    "<:lucalove:786280869660721162>": [
-        "lucalove"
-    ],
-    "<:quagmegalul:786415885719699486>": [
-        "quagmegalul"
-    ],
-    "<:pogsire:786416492073451530>": [
-        "pogsire"
-    ],
-    "<:MartinLove:787896213772566559>": [
-        "MartinLove"
-    ],
-    "<:HyperSnake:787926931340263475>": [
-        "HyperSnake"
-    ],
-    "<:worrystonks:789822094442496021>": [
-        "worrystonks"
-    ],
-    "<:PEPELA:790714721283735564>": [
-        "PEPELA"
-    ],
-    "<:peepoGuitar:790775681713569792>": [
-        "peepoGuitar"
-    ],
-    "<:xqcL:791402306301460511>": [
-        "xqcL"
-    ],
-    "<:g0attrHYPERS:792981488626434059>": [
-        "g0attrHYPERS"
-    ],
-    "<:tootiredbig:793799946322968576>": [
-        "tootiredbig"
-    ],
-    "<:worryOhno:794294384090808350>": [
-        "worryOhno"
-    ],
-    "<:honkStonks:794321489292689449>": [
-        "honkStonks"
-    ],
-    "<:Borry:796397312385351730>": [
-        "Borry"
-    ],
-    "<:g0attlove:796964699710423060>": [
-        "g0attlove"
-    ],
-    "<:worryspy:797618600752054272>": [
-        "worryspy"
-    ],
-    "<:WorryOrbs:802100181913960488>": [
-        "WorryOrbs"
-    ],
-    "<:what:804771604612513802>": [
-        "what"
-    ],
-    "<:joshlove:805745312085180446>": [
-        "joshlove"
-    ],
-    "<:blurry:807331254247882773>": [
-        "blurry"
-    ],
-    "<:jori:808281414260883516>": [
-        "jori"
-    ],
-    "<:gottem:811213484196757535>": [
-        "gottem"
-    ],
-    "<:jari:812011249939775598>": [
-        "jari"
-    ],
-    "<:Praydge:815647367407206461>": [
-        "Praydge"
-    ],
-    "<:blurrysit:815648162063581204>": [
-        "blurrysit"
-    ],
-    "<:Worrysusga:815687674295222292>": [
-        "Worrysusga"
-    ],
-    "<:WorryBombs:816209039473508363>": [
-        "WorryBombs"
-    ],
-    "<:hug:816396379215757332>": [
-        "hug"
-    ],
-    "<:copium:817106742856908860>": [
-        "copium"
-    ],
-    "<:worryback:818815922236031017>": [
-        "worryback"
-    ],
-    "<:sadgies:819550702497300502>": [
-        "sadgies"
-    ],
-    "<:worryGrico:822975385674448946>": [
-        "worryGrico"
-    ],
-    "<:haxxzlove:823347718079381584>": [
-        "haxxzlove"
-    ],
-    "<:geherlove:823358800475848746>": [
-        "geherlove"
-    ],
-    "<:PeepoChef:823697977817169931>": [
-        "PeepoChef"
-    ],
-    "<:lessgoo:826805037949911071>": [
-        "lessgoo"
-    ],
-    "<:WickedBro:827373174345302077>": [
-        "WickedBro"
-    ],
-    "<:feller:829894865536942100>": [
-        "feller"
-    ],
-    "<:LePauseU:830242453905735732>": [
-        "LePauseU"
-    ],
-    "<:veryblanketcat:830303131476688897>": [
-        "veryblanketcat"
-    ],
-    "<:PauseChampito:830736564677640193>": [
-        "PauseChampito"
-    ],
-    "<:worrydps:832318376767783003>": [
-        "worrydps"
-    ],
-    "<:catge:834526078391025664>": [
-        "catge"
-    ],
-    "<:WorrySpiritual:835292867190325268>": [
-        "WorrySpiritual"
-    ],
-    "<:aoslove:837500164330487848>": [
-        "aoslove"
-    ],
-    "<:dinostonks:838143246852161667>": [
-        "dinostonks"
-    ],
-    "<:pepperSprayLaugh:838996372186988564>": [
-        "pepperSprayLaugh"
-    ],
-    "<:bogged:839489428039663616>": [
-        "bogged"
-    ],
-    "<:veryworrycat:840843879138066473>": [
-        "veryworrycat"
-    ],
-    "<:verycatworry:840844733559341107>": [
-        "verycatworry"
-    ],
-    "<:cringe:841545982486249493>": [
-        "cringe"
-    ],
-    "<:HmmNote:842411229128687677>": [
-        "HmmNote"
-    ],
-    "<:PainChamp:844586043588345867>": [
-        "PainChamp"
-    ],
-    "<:pernixlove:844778235186380820>": [
-        "pernixlove"
-    ],
-    "<:woot:847314413823197204>": [
-        "woot"
-    ],
-    "<:catsleep:852937755758559243>": [
-        "catsleep"
-    ],
-    "<:doinklove:857450085067784193>": [
-        "doinklove"
-    ],
-    "<:spongelove:857597751407673375>": [
-        "spongelove"
-    ],
-    "<:shrugFreg:858032704891912263>": [
-        "shrugFreg"
-    ],
-    "<:worrygibstock:862406712594006016>": [
-        "worrygibstock"
-    ],
-    "<:worryreeves:863171163311046687>": [
-        "worryreeves"
-    ],
-    "<:breezylove:864239815096270869>": [
-        "breezylove"
-    ],
-    "<:cease:864241157520097281>": [
-        "cease"
-    ],
-    "<:quagsire_wave:864944264407154689>": [
-        "quagsire_wave"
-    ],
-    "<:worrysuperbrews:865620418516615218>": [
-        "worrysuperbrews"
     ],
     "<:vintagecomps:697405254098092063>": [
         "vintagecomps"
@@ -2960,7 +2300,8 @@
         "EnhancedExcalibur"
     ],
     "<:Tuskas:513201065513058306>": [
-        "Tuskas"
+        "Tuskas",
+        "tuska"
     ],
     "<:RoV:513201065877831680>": [
         "RoV"
@@ -2972,10 +2313,12 @@
         "VampScrim"
     ],
     "<:gstaff:513203008608141314>": [
-        "gstaff"
+        "gstaff",
+        "guthixstaff"
     ],
     "<:Noxiouscomp:513203842473525248>": [
-        "Noxiouscomp"
+        "Noxiouscomp",
+        "noxcomp"
     ],
     "<:Grips:513204675881992205>": [
         "Grips"
@@ -3197,7 +2540,8 @@
         "shock"
     ],
     "<:wm:535533809978966037>": [
-        "wm"
+        "wm",
+        "wildmagic"
     ],
     "<:tsunami:535533809995874304>": [
         "tsunami"
@@ -3221,19 +2565,22 @@
         "conc"
     ],
     "<:deep:535533833139912724>": [
-        "deep"
+        "deep",
+        "deepimpact"
     ],
     "<:horror:535533833261547520>": [
         "horror"
     ],
     "<:deto:535533833358016512>": [
-        "deto"
+        "deto",
+        "detonate"
     ],
     "<:dbreath:535533833391702017>": [
         "dbreath"
     ],
     "<:snap:535534127131394088>": [
-        "snap"
+        "snap",
+        "snapshot"
     ],
     "<:superantifire:864492695997513748>": [
         "superantifire"
@@ -3243,18 +2590,6 @@
     ],
     "<:mageKiln:569592271922528271>": [
         "mageKiln"
-    ],
-    "<:MnkZh:572289017257656321>": [
-        "MnkZh"
-    ],
-    "<:ZaknoM:572289017350062101>": [
-        "ZaknoM"
-    ],
-    "<:sonkom:572289017513771008>": [
-        "sonkom"
-    ],
-    "<:MonkoZ:572289017559646208>": [
-        "MonkoZ"
     ],
     "<:vorago:572867742613635082>": [
         "vorago"
@@ -3779,7 +3114,8 @@
         "tectmask"
     ],
     "<:vulnbomb:655341074235129858>": [
-        "vulnbomb"
+        "vulnbomb",
+        "vbomb"
     ],
     "<:stickybomb:655341074306301964>": [
         "stickybomb"
@@ -4049,7 +3385,8 @@
         "smokecloud"
     ],
     "<:exsanguinate:856635090745950258>": [
-        "exsanguinate"
+        "exsanguinate",
+        "exsang"
     ],
     "<:incitefear:856635090783567902>": [
         "incitefear"
@@ -4616,10 +3953,12 @@
         "pontifexshadowring"
     ],
     "<:timewarp:870328868815396914>": [
-        "timewarp"
+        "timewarp",
+        "warptime"
     ],
     "<:zamorakstaff:873142795706179651>": [
-        "zamorakstaff"
+        "zamorakstaff",
+        "zamstaff"
     ],
     "<:kerapac:875443920673337344>": [
         "kerapac"
