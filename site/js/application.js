@@ -27,8 +27,7 @@ $(document).ready(function() {
         let input = textInput.value;
         const originalInput = input;
 
-        // replace input text: '->' to '→'
-        input = input.replace('->', '→');
+        input = input.replace(/->/g, '→');
 
         // replace input text: '<:Cinderbanes:513190158355660812>' to 'Cinderbanes'
         let match = discordEmojiRegex.exec(input);
