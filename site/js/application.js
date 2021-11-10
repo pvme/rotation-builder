@@ -36,17 +36,32 @@ $(document).ready(function() {
             match = discordEmojiRegex.exec(input);
         }
 
-        // set output field: 'Cinderbanes' to '<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/643505179378974748.png?v=1">'
         let output = input;
+        let outputSections = output.split(/(\[.*?\])/gi);   //split 'barge [barge]' to ['barge ', '[barge]']
         for (const emoji of emojiLUT) {
-            if (output.toLowerCase().includes(emoji[0])) {
-                output = output.replace(new RegExp(emoji[0], "ig"), '<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png?v=1">');
+            for (let i=0; i < outputSections.length; i++) {
+
+                // check that the section is not contained within '[]' really inefficient but it works
+                if (!outputSections[i].startsWith('[') && !outputSections[i].endsWith(']')) {
+
+                    // check that the text contains the alias
+                    if (outputSections[i].toLowerCase().includes(emoji[0])) {
+                        outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), '<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png?v=1">');
+                    }
+                }
+            }
+        }
+
+        // another pepega replace output sections containing '[text]' with 'text'
+        for (let i=0; i < outputSections.length; i++) {
+            if (outputSections[i].startsWith('[') && outputSections[i].endsWith(']')) {
+                outputSections[i] = outputSections[i].slice(1, outputSections[i].length-1);
             }
         }
 
         // update input and output text
         textInput.value = input;
-        pOutput.innerHTML = output;
+        pOutput.innerHTML = outputSections.join('');
 
         // set caret to last edited item instead of always at the end of the text area
         // e.g. when modifying "hello bye" to "hello -> bye" the caret ends at "hello →| bye"
