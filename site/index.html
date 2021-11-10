@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
 <!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">-->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@forevolve/bootstrap-dark@1.1.0/dist/css/bootstrap-dark.min.css" />
 <!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@forevolve/bootstrap-dark@1.1.0/dist/css/bootstrap-prefers-light.min.css" />-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@forevolve/bootstrap-dark@1.1.0/dist/css/bootstrap-dark.min.css" />
 
     <link href="css/style.css" rel="stylesheet">
     <title>Rotation Builder</title>
@@ -65,10 +64,38 @@
                 </table>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-12 p-3">
+                <table class="table table-sm">
+                    <thead>
+                        <tr>
+                            <th scope="col" style="width:50%">Key</th>
+                            <th scope="col" style="width:50%">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><kbd>Tab</kbd></td>
+                            <td>Cycle through suggestions</td>
+                        </tr>
+                        <tr>
+                            <td><kbd>Enter</kbd>, <kbd>→</kbd></td>
+                            <td>Select suggestion</td>
+                        </tr>
+                        <tr>
+                            <td><kbd>Space</kbd>, <kbd>Backspace</kbd></td>
+                            <td>Close suggestion</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
 </body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="js/asuggest/jquery.a-tools-1.4.1.js"></script>
+    <script src="js/asuggest/jquery.asuggest.js"></script>
     <script src="js/emojiLUT.js"></script>
     <script src="js/application.js"></script>
     <script>

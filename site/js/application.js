@@ -1,5 +1,6 @@
 const discordEmojiRegex = new RegExp("<:([^:]{2,}):([0-9]+)>", 'i');
 
+
 function reverse(str) {
     let reversed = "";
     for (let i = str.length - 1; i >= 0; i--) {
@@ -13,14 +14,14 @@ $(document).ready(function() {
     let textInput = document.getElementById('input');
     let pOutput = document.getElementById('output');
 
-//    $("#input").asuggest(emojiSuggestions, {
-//        'autoComplete': false,
-//        'cycleOnTab': true,
-//        'ignoreCase': true,
-//        'endingSymbols': '',
-//        'stopSuggestionKeys': [$.asuggestKeys.RETURN],
-//        'delimiters': '\n ' // ideally not ' ' but requires modification to asuggest
-//    });
+    $("#input").asuggest(emojiSuggestions, {
+        'autoComplete': false,
+        'cycleOnTab': true,
+        'ignoreCase': true,
+        'endingSymbols': '',
+        'stopSuggestionKeys': [$.asuggestKeys.RETURN, $.asuggestKeys.LEFT],
+        'delimiters': '\n ' // ideally not ' ' but requires modification to asuggest
+    });
 
     // handle input text area changes
     $('#input').on('input propertychange paste', function() {
@@ -42,7 +43,7 @@ $(document).ready(function() {
             for (let i=0; i < outputSections.length; i++) {
 
                 // check that the section is not contained within '[]' really inefficient but it works
-                if (!outputSections[i].startsWith('[') && !outputSections[i].endsWith(']')) {
+                if (!(outputSections[i].startsWith('[') && outputSections[i].endsWith(']'))) {
 
                     // check that the text contains the alias
                     if (outputSections[i].toLowerCase().includes(emoji[0])) {
@@ -74,6 +75,7 @@ $(document).ready(function() {
             }
         }
     });
+
 
     // handle copy button clicked
     $('#copy').click(function() {
