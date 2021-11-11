@@ -56,7 +56,8 @@
         "onslaught"
     ],
     "<:corruptblast:513190159194259467>": [
-        "corruptblast"
+        "corruptblast",
+        "corrblast"
     ],
     "<:sing:513190159261630467>": [
         "sing"
@@ -1103,7 +1104,8 @@
         "PoD"
     ],
     "<:SoL:595794858044686339>": [
-        "SoL"
+        "SoL",
+        "signoflife"
     ],
     "<:SoD:595794858048749568>": [
         "SoD"
@@ -1245,7 +1247,8 @@
         "incitefear"
     ],
     "<:wrackandruin:856662355912032256>": [
-        "wrackandruin"
+        "wrackandruin",
+        "superwrack"
     ],
     "<:wrack:856662355952795658>": [
         "wrack"
@@ -2361,7 +2364,9 @@
         "raksha"
     ],
     "<:nat:535541258131865633>": [
-        "nat"
+        "nat",
+        "natty",
+        "natinstinct"
     ],
     "<:freedom:535541258240786434>": [
         "freedom"
@@ -2391,7 +2396,8 @@
         "reflect"
     ],
     "<:escape:535541258832052231>": [
-        "escape"
+        "escape",
+        "esc"
     ],
     "<:res:535541258844635148>": [
         "res"
@@ -2405,7 +2411,10 @@
         "swift"
     ],
     "<:mds:535541259033378827>": [
-        "mds"
+        "mds",
+        "gds",
+        "greaterdazingshot",
+        "greaterdazing"
     ],
     "<:needle:535541259108876293>": [
         "needle"
@@ -2444,7 +2453,8 @@
         "debilitate"
     ],
     "<:corruptshot:535541306294796299>": [
-        "corruptshot"
+        "corruptshot",
+        "corrshot"
     ],
     "<:cade:535541306353778689>": [
         "cade",
@@ -2637,7 +2647,8 @@
         "wildmagic"
     ],
     "<:tsunami:535533809995874304>": [
-        "tsunami"
+        "tsunami",
+        "nami"
     ],
     "<:surge:535533810004262912>": [
         "surge"
@@ -2652,7 +2663,8 @@
         "asphyx"
     ],
     "<:comb:535533833098100745>": [
-        "comb"
+        "comb",
+        "combust"
     ],
     "<:conc:535533833106489365>": [
         "conc"
@@ -2669,7 +2681,8 @@
         "detonate"
     ],
     "<:dbreath:535533833391702017>": [
-        "dbreath"
+        "dbreath",
+        "db"
     ],
     "<:snap:535534127131394088>": [
         "snap",
@@ -2763,7 +2776,8 @@
         "runepouch"
     ],
     "<:Sunshine:583430011948630016>": [
-        "Sunshine"
+        "Sunshine",
+        "sun"
     ],
     "<:aoskit:583430147487563776>": [
         "aoskit"
@@ -3750,7 +3764,8 @@
         "tightbindingsflank"
     ],
     "<:impactflank:867678154369400862>": [
-        "impactflank"
+        "impactflank",
+        "flankimpact"
     ],
     "<:deepimpactflank:867678153611018261>": [
         "deepimpactflank"
@@ -3783,10 +3798,14 @@
         "anticlearheaded"
     ],
     "<:deathsswiftpf:867678153949708309>": [
-        "deathsswiftpf"
+        "deathsswiftpf",
+        "dspf",
+        "pfds"
     ],
     "<:sunshinepf:867678154143694868>": [
-        "sunshinepf"
+        "sunshinepf",
+        "sunpf",
+        "pfsun"
     ],
     "<:piercingenergising:867678153979854868>": [
         "piercingenergising"
@@ -3914,7 +3933,8 @@
     ],
     "<:zamorakstaff:873142795706179651>": [
         "zamorakstaff",
-        "zamstaff"
+        "zamstaff",
+        "zstaff"
     ],
     "<:kerapac:875443920673337344>": [
         "kerapac"
@@ -3935,7 +3955,8 @@
         "smokeamalg"
     ],
     "<:armadylbattlestaff:881962727705280512>": [
-        "armadylbattlestaff"
+        "armadylbattlestaff",
+        "abs"
     ],
     "<:lengmh:883134308146098227>": [
         "lengmh"
