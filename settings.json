@@ -4157,7 +4157,8 @@
         "scriptureofful"
     ],
     "<:pernixsquiver:902209626450296892>": [
-        "pernixsquiver"
+        "pernixsquiver",
+        "pernixquiver"
     ],
     "<:zekkil:903244090953588787>": [
         "zekkil"
@@ -4165,5 +4166,8 @@
     "<:aggression:909338509234569216>": [
         "aggression",
         "aggrosigil"
+    ],
+    "<:emeraldaurora:914077639784935424>": [
+        "emeraldaurora"
     ]
 }
