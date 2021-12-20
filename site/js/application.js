@@ -13,6 +13,7 @@ function reverse(str) {
 $(document).ready(function() {
     let textInput = document.getElementById('input');
     let pOutput = document.getElementById('output');
+    let clipboardText = "";
 
     $("#input").asuggest(emojiSuggestions, {
         'autoComplete': false,
@@ -25,6 +26,7 @@ $(document).ready(function() {
 
     // handle input text area changes
     $('#input').on('input propertychange paste', function() {
+
         let input = textInput.value;
         const originalInput = input;
 
@@ -62,7 +64,9 @@ $(document).ready(function() {
 
         // update input and output text
         textInput.value = input;
-        pOutput.innerHTML = outputSections.join('');
+        clipboardText = outputSections.join('');
+
+        pOutput.innerHTML = clipboardText.replace(/\n/g, '<br>');
 
         // set caret to last edited item instead of always at the end of the text area
         // e.g. when modifying "hello bye" to "hello -> bye" the caret ends at "hello →| bye"
@@ -79,8 +83,6 @@ $(document).ready(function() {
 
     // handle copy button clicked
     $('#copy').click(function() {
-        let clipboardText = pOutput.innerHTML
-
         // very pepega way of converting images back to emojis
         for (const emoji of emojiLUT) {
             clipboardText = clipboardText.replace(new RegExp('<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png.v=1">', 'g'), emoji[1]);
@@ -88,8 +90,6 @@ $(document).ready(function() {
 
         // copy to clipboard
         navigator.clipboard.writeText(clipboardText);
-
-        var img = pOutput.toDataURL("image/png");
-        document.write('<img src="'+img+'"/>');
     });
 });
+
