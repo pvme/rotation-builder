@@ -97,9 +97,7 @@ $(document).ready(function() {
         let inputContainer = document.getElementById('inputContainer');
         let outputContainer = document.getElementById('outputContainer');
 
-        console.log(this.innerHTML);
         if (this.innerHTML == '<i class="bi bi-view-stacked"></i> View') {
-            console.log(this.innerHTML);
             this.innerHTML = '<i class="bi bi-layout-split"></i> View';
             inputContainer.className = 'col-md-12 p-3';
             outputContainer.className = 'col-md-12 p-3';
