@@ -72,7 +72,7 @@ $(document).ready(function() {
         // e.g. when modifying "hello bye" to "hello -> bye" the caret ends at "hello →| bye"
         inputReversed = reverse(input);
         originalInputReversed = reverse(originalInput);
-        for (let i=0; i < inputReversed.length; i++){
+        for (let i=0; i < inputReversed.length; i++) {
             if (inputReversed[i] != originalInputReversed[i]) {
                 textInput.selectionEnd = input.length - i;
                 break;
@@ -91,5 +91,21 @@ $(document).ready(function() {
         // copy to clipboard
         navigator.clipboard.writeText(clipboardText);
     });
-});
 
+    // handle change view button clicked
+    $('#changeView').click(function() {
+        let inputContainer = document.getElementById('inputContainer');
+        let outputContainer = document.getElementById('outputContainer');
+
+        if (this.innerHTML == '<i class="bi bi-view-stacked"></i> View') {
+            this.innerHTML = '<i class="bi bi-layout-split"></i> View';
+            inputContainer.className = 'col-md-12 p-3';
+            outputContainer.className = 'col-md-12 p-3';
+        }
+        else {
+            this.innerHTML = '<i class="bi bi-view-stacked"></i> View';
+            inputContainer.className = 'col-md-6 p-3';
+            outputContainer.className = 'col-md-6 p-3';
+        }
+    });
+});
