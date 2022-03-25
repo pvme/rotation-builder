@@ -4170,6 +4170,13 @@
     "<:emeraldaurora:914077639784935424>": [
         "emeraldaurora"
     ],
+    "<:bluebomb:923249600276615200>": [
+        "bluebomb"
+    ],
+    "<:teamsplitredred:923249948680675388>": [
+        "teamsplitredred",
+        "teamsplitrr"
+    ],
     "<:magmatempesttarget:924741973858996284>": [
         "magmatempesttarget"
     ],
@@ -4314,5 +4321,15 @@
     ],
     "<:lucky2:954725767772778496>": [
         "lucky2"
+    ],
+    "<:waterfall:956816428730810398>": [
+        "waterfall"
+    ],
+    "<:teamsplitredblue:956854185591197776>": [
+        "teamsplitredblue",
+        "teamsplitrb"
+    ],
+    "<:vitalis:956889613962719293>": [
+        "vitalis"
     ]
 }
