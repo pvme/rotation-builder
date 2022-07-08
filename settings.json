@@ -2405,7 +2405,7 @@
     "<:rejuvenate:535541258873995284>": [
         "rejuvenate"
     ],
-    "<:deathsswift:535541258924326912>": [
+    "<:deathsswift:994921434633744455>": [
         "deathsswift",
         "deathsswiftness",
         "swift"
@@ -2775,7 +2775,7 @@
     "<:runepouch:583430011868938283>": [
         "runepouch"
     ],
-    "<:Sunshine:583430011948630016>": [
+    "<:sunshine:994921119381463070>": [
         "Sunshine",
         "sun"
     ],
@@ -3797,12 +3797,12 @@
     "<:anticlearheaded:867678154071998464>": [
         "anticlearheaded"
     ],
-    "<:deathsswiftpf:867678153949708309>": [
+    "<:deathsswiftpf:994921597813137518>": [
         "deathsswiftpf",
         "dspf",
         "pfds"
     ],
-    "<:sunshinepf:867678154143694868>": [
+    "<:sunshinepf:994921595489488927>": [
         "sunshinepf",
         "sunpf",
         "pfsun"
@@ -4343,5 +4343,63 @@
     ],
     "<:deadshotigneous:959089455283728386>": [
         "deadshotigneous"
+    ],
+    "<:bikarrow:971025697235689513>": [
+        "bikarrow"
+    ],
+    "<:wenarrow:971025697046925362>": [
+        "wenarrow"
+    ],
+    "<:fularrow:971025696958853180>": [
+        "fularrow"
+    ],
+    "<:jasdemonbanearrow:971025697055334491>": [
+        "jasdemonbanearrow"
+    ],
+    "<:jasdragonbanearrow:971025697042755584>": [
+        "jasdragonbanearrow"
+    ],
+    "<:mtxdummy:974503666407067738>": [
+        "mtxdummy"
+    ],
+    "<:brokents:975012160675647538>": [
+        "brokents"
+    ],
+    "<:bolg:994189289623662702>": [
+        "bolg"
+    ],
+    "<:zamorak:994914159969976440>": [
+        "zamorak"
+    ],
+    "<:twinshotrune:994206062498549780>": [
+        "twinshotrune"
+    ],
+    "<:smiterune:994206048334393385>": [
+        "smiterune"
+    ],
+    "<:covenrune:994206032773517364>": [
+        "covenrune"
+    ],
+    "<:disintegraterune:994206018680668171>": [
+        "disintegraterune"
+    ],
+    "<:chaostrapsrune:994206002658431016>": [
+        "chaostrapsrune"
+    ],
+    "<:afflictionrune:994205987663794206>": [
+        "afflictionrune"
+    ],
+    "<:chaosroar:994644356671737966>": [
+        "chaosroar"
+    ],
+    "<:gsunshine:994644352871714836>": [
+        "gsunshine"
+    ],
+    "<:gdeathsswift:994644354536837121>": [
+        "gdeathsswift"
+    ],
+    "<:havocgop:994920849117282365>": [
+        "havocgop",
+        "havocpassage"
     ]
 }
