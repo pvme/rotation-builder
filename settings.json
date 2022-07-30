@@ -2412,7 +2412,6 @@
     ],
     "<:mds:535541259033378827>": [
         "mds",
-        "gds",
         "greaterdazingshot",
         "greaterdazing"
     ],
@@ -4161,6 +4160,7 @@
         "pernixquiver"
     ],
     "<:zekkil:903244090953588787>": [
+        "ezk",
         "zekkil"
     ],
     "<:aggression:909338509234569216>": [
@@ -4170,8 +4170,59 @@
     "<:emeraldaurora:914077639784935424>": [
         "emeraldaurora"
     ],
+    "<:darkiceshard:915232154160594974>": [
+        "darkiceshard"
+    ],
+    "<:darkicesliver:915232153787334677>": [
+        "darkicesliver"
+    ],
+    "<:hellhoundpouch:921410226475925514>": [
+        "hellhoundpouch"
+    ],
+    "<:kalgpouch:921410226484301925>": [
+        "kalgpouch"
+    ],
+     "<:hellhoundscroll:922417969731088435>": [
+        "hellhoundscroll"
+    ],
+    "<:eofkit:923248842068074527>": [
+        "eofkit"
+    ],
+    "<:taintedrepriser:923248841644466198>": [
+        "taintedrepriser"
+    ],
+    "<:corrupteddefender:923248842000957480>": [
+        "corrupteddefender"
+    ],
+    "<:blightedrebounder:923248842101628989>": [
+        "blightedrebounder"
+    ],
     "<:bluebomb:923249600276615200>": [
         "bluebomb"
+    ],
+    "<:pernixsquiverred:923269339178758204>": [
+        "pernixsquiverred"
+    ],
+    "<:pernixsquiverorange:923269338851598367>": [
+        "pernixsquiverorange"
+    ],
+    "<:pernixsquiveryellow:923269339136798800>": [
+        "pernixsquiveryellow"
+    ],
+    "<:pernixsquivergreen:923269339325554688>": [
+        "pernixsquivergreen"
+    ],
+    "<:pernixsquiverblue:923269339203903488>": [
+        "pernixsquiverblue"
+    ],
+    "<:pernixsquiverpurple:923269338885148714>": [
+        "pernixsquiverpurple"
+    ],
+    "<:pernixsquiverblack:923269339132608532>": [
+        "pernixsquiverblack"
+    ],
+    "<:magmatempesttarget:924741973858996284>": [
+        "magmatempesttarget"
     ],
     "<:teamsplitredred:923249948680675388>": [
         "teamsplitredred",
@@ -4333,7 +4384,8 @@
         "vitalis"
     ],
     "<:tsunamiincite:958989794757730307>": [
-        "tsunamiincite"
+        "tsunamiincite",
+        "namiincite"
     ],
     "<:overpowerigneous:959089455640215633>": [
         "overpowerigneous",
@@ -4366,10 +4418,33 @@
         "mtxdummy"
     ],
     "<:brokents:975012160675647538>": [
-        "brokents"
+        "brokents",
+        "brokenteamsplit"
     ],
     "<:bolg:994189289623662702>": [
-        "bolg"
+        "bolg",
+        "botlg",
+        "bowofthelastguardian"
+    ],
+    "<:vestmentsofhavochood:994189297659940904>": [
+        "vestmentsofhavochood",
+        "vestmentshood",
+        "vestmenthood"
+    ],
+    "<:vestmentsofhavoctop:994189295592161291>": [
+        "vestmentsofhavoctop",
+        "vestmentstop",
+        "vestmenttop"
+    ],
+    "<:vestmentsofhavocbottom:994189293515980902>": [
+        "vestmentsofhavocbottom",
+        "vestmentsbottom",
+        "vestmentbottom"
+    ],
+    "<:vestmentsofhavocboots:994189291515285544>": [
+        "vestmentsofhavocboots",
+        "vestmentsboots",
+        "vestmentboots"
     ],
     "<:zamorak:994914159969976440>": [
         "zamorak"
@@ -4396,14 +4471,21 @@
         "chaosroar"
     ],
     "<:gsunshine:994644352871714836>": [
-        "gsunshine"
+        "gsunshine",
+        "gsun",
+        "greatersunshine"
     ],
     "<:gdeathsswift:994644354536837121>": [
-        "gdeathsswift"
+        "gdeathsswift",
+        "greaterdeathsswift"
     ],
     "<:havocgop:994920849117282365>": [
         "havocgop",
         "havocpassage"
+    ],
+    "<:smashgop:994929821727604808>": [
+        "smashgop",
+        "smashpassage"
     ],
     "<:sapphireaurora:995711033480069130>": [
         "sapphireaurora"
@@ -4411,5 +4493,8 @@
     "<:antireflexes:998692900135252078>": [
         "antireflexes",
         "anticipatereflexes"
+    ],
+    "<:blackcrystal:1000328247441104917>": [
+        "blackcrystal"
     ]
 }
