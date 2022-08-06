@@ -4496,5 +4496,49 @@
     ],
     "<:blackcrystal:1000328247441104917>": [
         "blackcrystal"
+    ],
+    "<:dungeoneering:1003947795541143632>": [
+        "dungeoneering"
+    ],
+    "<:tetsumh:1003947812284813374>": [
+        "tetsumh"
+    ],
+    "<:tetsuoh:1003947810372202538>": [
+        "tetsuoh"
+    ],
+    "<:seasingerwand:1003947816525254685>": [
+        "seasingerwand"
+    ],
+    "<:seasingerorb:1003947814218383432>": [
+        "seasingerorb"
+    ],
+    "<:ganohelm:1003947807754960896>": [
+        "ganohelm",
+        "ganovisor",
+        "ganodermicvisor",
+        "ganodermichelm"
+    ],
+    "<:ganobody:1003947805611655208>": [
+        "ganobody",
+        "ganoponcho",
+        "ganotop",
+        "ganodermictop",
+        "ganodermicponcho",
+        "ganodermicbody"
+    ],
+    "<:ganolegs:1003947803673903204>": [
+        "ganolegs",
+        "ganodermiclegs"
+    ],
+    "<:ganoboots:1003947801836789830>": [
+        "ganoboots",
+        "ganodermicboots"
+    ],
+    "<:ganogloves:1003947799760617522>": [
+        "ganogloves",
+        "ganodermicgloves"
+    ],
+    "<:shadowspike:1003947797491499098>": [
+        "shadowspike"
     ]
 }
