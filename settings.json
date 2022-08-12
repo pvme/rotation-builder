@@ -4183,7 +4183,7 @@
     "<:kalgpouch:921410226484301925>": [
         "kalgpouch"
     ],
-     "<:hellhoundscroll:922417969731088435>": [
+    "<:hellhoundscroll:922417969731088435>": [
         "hellhoundscroll"
     ],
     "<:eofkit:923248842068074527>": [
@@ -4228,9 +4228,6 @@
     "<:teamsplitredred:923249948680675388>": [
         "teamsplitredred",
         "teamsplitrr"
-    ],
-    "<:magmatempesttarget:924741973858996284>": [
-        "magmatempesttarget"
     ],
     "<:portentitemprotection:925366289629859860>": [
         "portentofitemprotection",
@@ -4541,5 +4538,518 @@
     ],
     "<:shadowspike:1003947797491499098>": [
         "shadowspike"
+    ],
+    "<:cinderbanes:513190158355660812>": [
+        "cinderbanes"
+    ],
+    "<:bloodtend:513190158431158274>": [
+        "bloodtend"
+    ],
+    "<:reaperorkit:513190159349448715>": [
+        "reaperorkit"
+    ],
+    "<:scavenging4:1005934140669046824>": [
+        "scavenging4"
+    ],
+    "<:perfectequilibrium:1006119102814887957>": [
+        "perfectequilibrium"
+    ],
+    "<:nopenopenope:1006123123994808370>": [
+        "nopenopenope"
+    ],
+    "<:innerpower:1006128091422265454>": [
+        "innerpower"
+    ],
+    "<:animaflowedict:1006128089547411486>": [
+        "animaflowedict"
+    ],
+    "<:hasteedict:1006128087555133520>": [
+        "hasteedict"
+    ],
+    "<:innerchaosedict:1006128085499908107>": [
+        "innerchaosedict"
+    ],
+    "<:guardianstriumphedict:1006128084006740048>": [
+        "guardianstriumphedict"
+    ],
+    "<:swordofedictsedict:1006128082266107954>": [
+        "swordofedictsedict"
+    ],
+    "<:balanceofpoweredict:1006128080433193041>": [
+        "balanceofpoweredict"
+    ],
+    "<:turtling4:712073737377284146>": [
+        "turtling4"
+    ],
+    "<:armourspikealloy:756235792053174332>": [
+        "armourspikealloy"
+    ],
+    "<:npccontact:975284195280695326>": [
+        "npccontact"
+    ],
+    "<:pernixheadimage:517417560434540545>": [
+        "pernixheadimage"
+    ],
+    "<:furycodex:643169137098752001>": [
+        "furycodex"
+    ],
+    "<:fsoa:869284271595069451>": [
+        "fsoa"
+    ],
+    "<:glacorcore:884739993229230092>": [
+        "glacorcore"
+    ],
+    "<:ripperclawoh:915232154252890122>": [
+        "ripperclawoh"
+    ],
+    "<:camelstaff:917025698479210528>": [
+        "camelstaff"
+    ],
+    "<:premierartefact:918517285176623104>": [
+        "premierartefact"
+    ],
+    "<:elderruneshield:921410226140352566>": [
+        "elderruneshield"
+    ],
+    "<:crystalshield4:921410343606034443>": [
+        "crystalshield4"
+    ],
+    "<:animabodyseren:923248695846273054>": [
+        "animabodyseren"
+    ],
+    "<:attunedcrystalhalberd:923248695556857857>": [
+        "attunedcrystalhalberd"
+    ],
+    "<:chaoticcbowmh:923248841959022653>": [
+        "chaoticcbowmh"
+    ],
+    "<:magicimbue:923249598640832543>": [
+        "magicimbue"
+    ],
+    "<:biting2:967752660822401074>": [
+        "biting2"
+    ],
+    "<:warpedgem:968908526955167774>": [
+        "warpedgem"
+    ],
+    "<:ancientcloak:969849295425658892>": [
+        "ancientcloak"
+    ],
+    "<:necklaceofsalamancy:970657245312467004>": [
+        "necklaceofsalamancy"
+    ],
+    "<:portentofrestorationx:974503666352525312>": [
+        "portentofrestorationx"
+    ],
+    "<:saltwaterflask:974503666402873464>": [
+        "saltwaterflask"
+    ],
+    "<:staminapotion:974504258177220659>": [
+        "staminapotion"
+    ],
+    "<:turtling3:974504834394898522>": [
+        "turtling3"
+    ],
+    "<:tokkulzo:975012160759550042>": [
+        "tokkulzo"
+    ],
+    "<:laniakea:975284345411600426>": [
+        "laniakea"
+    ],
+    "<:jacquelyn:975284345369665577>": [
+        "jacquelyn"
+    ],
+    "<:slayercape:975284344123953164>": [
+        "slayercape"
+    ],
+    "<:slayerintrospection:975284345365471232>": [
+        "slayerintrospection"
+    ],
+    "<:slayervip:975284344597934120>": [
+        "slayervip"
+    ],
+    "<:bonecrusher:975284344526602240>": [
+        "bonecrusher"
+    ],
+    "<:demonhornnecklace:975765831248130079>": [
+        "demonhornnecklace"
+    ],
+    "<:overloadset:975765831201996800>": [
+        "overloadset"
+    ],
+    "<:dgcape:976732922545586246>": [
+        "dgcape"
+    ],
+    "<:greenblubber:977320004200579082>": [
+        "greenblubber"
+    ],
+    "<:rathis:982264011049566238>": [
+        "rathis"
+    ],
+    "<:orikalka:982264010873376868>": [
+        "orikalka"
+    ],
+    "<:pthentraken:982264010839842916>": [
+        "pthentraken"
+    ],
+    "<:boneblowpipe:982264010563018772>": [
+        "boneblowpipe"
+    ],
+    "<:pantheonaura:982264010126819380>": [
+        "pantheonaura"
+    ],
+    "<:lotdrelic:987267727980912701>": [
+        "lotdrelic"
+    ],
+    "<:powderofburials:989191014738698340>": [
+        "powderofburials"
+    ],
+    "<:soullink:989442220484616242>": [
+        "soullink"
+    ],
+    "<:pernixcowl:992155944253411478>": [
+        "pernixcowl"
+    ],
+    "<:torvahelm:992155940914724934>": [
+        "torvahelm"
+    ],
+    "<:virtusmask:992155942563102852>": [
+        "virtusmask"
+    ],
+    "<:infernalpuzzlebox:994189299681607800>": [
+        "infernalpuzzlebox"
+    ],
+    "<:bolgtop:994189310913941534>": [
+        "bolgtop"
+    ],
+    "<:divinebowstring:994189307852095525>": [
+        "divinebowstring"
+    ],
+    "<:bolgbottom:994189301619380274>": [
+        "bolgbottom"
+    ],
+    "<:chaosroarcodex:994189286960287764>": [
+        "chaosroarcodex"
+    ],
+    "<:lostknowledgecodex:994189285102202890>": [
+        "lostknowledgecodex"
+    ],
+    "<:jewelsofzamorak:994189282933739611>": [
+        "jewelsofzamorak"
+    ],
+    "<:lampenflora:1003947793620152320>": [
+        "lampenflora"
+    ],
+    "<:devilssnare:1003947791707557958>": [
+        "devilssnare"
+    ],
+    "<:luminoussnaggler:1003947789895606312>": [
+        "luminoussnaggler"
+    ],
+    "<:liverworts:1003947787752321105>": [
+        "liverworts"
+    ],
+    "<:zurieltop:1004090526250827867>": [
+        "zurieltop"
+    ],
+    "<:armourspike:1004090524669587517>": [
+        "armourspike"
+    ],
+    "<:abyssalarmourspike:1004107347259555981>": [
+        "abyssalarmourspike"
+    ],
+    "<:glacor:1004107344935923743>": [
+        "glacor"
+    ],
+    "<:ripperdemon:1004107343123976284>": [
+        "ripperdemon"
+    ],
+    "<:runedragon:1004107341374963852>": [
+        "runedragon"
+    ],
+    "<:lavastrykewyrm:1004107339126808627>": [
+        "lavastrykewyrm"
+    ],
+    "<:hydrixdragon:1004107337415544854>": [
+        "hydrixdragon"
+    ],
+    "<:abyssaldemon:1004107332478840873>": [
+        "abyssaldemon"
+    ],
+    "<:abyssalsavage:1004107330650124462>": [
+        "abyssalsavage"
+    ],
+    "<:abyssalbeast:1004107328964014100>": [
+        "abyssalbeast"
+    ],
+    "<:abyssallord:1004107327126904842>": [
+        "abyssallord"
+    ],
+    "<:nodondragonkin:1004107324853596251>": [
+        "nodondragonkin"
+    ],
+    "<:feraldinosaur:1004107322882261072>": [
+        "feraldinosaur"
+    ],
+    "<:brutishdinosaur:1004107321087103179>": [
+        "brutishdinosaur"
+    ],
+    "<:venomousdinosaur:1004107319166107689>": [
+        "venomousdinosaur"
+    ],
+    "<:ripperdinosaur:1004107317450641438>": [
+        "ripperdinosaur"
+    ],
+    "<:soulgazer:1004107315521257572>": [
+        "soulgazer"
+    ],
+    "<:seeker:1004107313424117951>": [
+        "seeker"
+    ],
+    "<:vinecrawler:1004107312115490877>": [
+        "vinecrawler"
+    ],
+    "<:bulbouscrawler:1004107310391636079>": [
+        "bulbouscrawler"
+    ],
+    "<:mossgolem:1004107335343542404>": [
+        "mossgolem"
+    ],
+    "<:nightmare:1004107308516782111>": [
+        "nightmare"
+    ],
+    "<:acheronmammoth:1004107306872610876>": [
+        "acheronmammoth"
+    ],
+    "<:camelwarrior:1004107305173913721>": [
+        "camelwarrior"
+    ],
+    "<:ganodermicbeast:1004107303525556274>": [
+        "ganodermicbeast"
+    ],
+    "<:elves:1004107301608771594>": [
+        "elves"
+    ],
+    "<:kalphite:1004107299763261450>": [
+        "kalphite"
+    ],
+    "<:salawaakh:1004107297791938631>": [
+        "salawaakh"
+    ],
+    "<:felineakh:1004107296076480532>": [
+        "felineakh"
+    ],
+    "<:gorillaakh:1004107294084182017>": [
+        "gorillaakh"
+    ],
+    "<:crocrodileakh:1004107292410654762>": [
+        "crocrodileakh"
+    ],
+    "<:scarabakh:1004107290745524224>": [
+        "scarabakh"
+    ],
+    "<:imperialwarriorakh:1004107288933572608>": [
+        "imperialwarriorakh"
+    ],
+    "<:corruptedworker:1004107287184543856>": [
+        "corruptedworker"
+    ],
+    "<:corruptedscorpion:1004107285259370546>": [
+        "corruptedscorpion"
+    ],
+    "<:livingwyvern:1004107283015421962>": [
+        "livingwyvern"
+    ],
+    "<:crystalshapeshifter:1004107281153150986>": [
+        "crystalshapeshifter"
+    ],
+    "<:shadowcreature:1004107279328624650>": [
+        "shadowcreature"
+    ],
+    "<:edimmu:1004107277567008922>": [
+        "edimmu"
+    ],
+    "<:airut:1004107275562139648>": [
+        "airut"
+    ],
+    "<:muspah:1004107273611784242>": [
+        "muspah"
+    ],
+    "<:rorarius:1004107271523020831>": [
+        "rorarius"
+    ],
+    "<:automaton:1004107269820133477>": [
+        "automaton"
+    ],
+    "<:icestrykewyrm:1004107267915907166>": [
+        "icestrykewyrm"
+    ],
+    "<:desertstrykewyrm:1004107266313703566>": [
+        "desertstrykewyrm"
+    ],
+    "<:junglestrykewyrm:1004107264459821066>": [
+        "junglestrykewyrm"
+    ],
+    "<:darkbeast:1004107262501068991>": [
+        "darkbeast"
+    ],
+    "<:steeldragon:1004107260873670728>": [
+        "steeldragon"
+    ],
+    "<:irondragon:1004107259124654260>": [
+        "irondragon"
+    ],
+    "<:dagannoth:1004107256855539733>": [
+        "dagannoth"
+    ],
+    "<:maskoftheabyss:1004325563068071936>": [
+        "maskoftheabyss"
+    ],
+    "<:demonslayercirclet:1004325697503907910>": [
+        "demonslayercirclet"
+    ],
+    "<:demonslayerbody:1004325695520002068>": [
+        "demonslayerbody"
+    ],
+    "<:demonslayerlegs:1004325693519302706>": [
+        "demonslayerlegs"
+    ],
+    "<:demonslayerboots:1004325691510231041>": [
+        "demonslayerboots"
+    ],
+    "<:demonslayergloves:1004325689836716103>": [
+        "demonslayergloves"
+    ],
+    "<:gchaincodex:1004453786384875621>": [
+        "gchaincodex"
+    ],
+    "<:gsunshinecodex:1004453784539373688>": [
+        "gsunshinecodex"
+    ],
+    "<:divertcodex:1004453782471573665>": [
+        "divertcodex"
+    ],
+    "<:gdeathsswiftcodex:1004453780558979212>": [
+        "gdeathsswiftcodex"
+    ],
+    "<:limitlesscodex:1004453778302439525>": [
+        "limitlesscodex"
+    ],
+    "<:ingencodex:1004453776389853216>": [
+        "ingencodex"
+    ],
+    "<:undeadslayercodex:1004453774494015519>": [
+        "undeadslayercodex"
+    ],
+    "<:dragonslayercodex:1004453772233293916>": [
+        "dragonslayercodex"
+    ],
+    "<:demonslayercodex:1004453770924658828>": [
+        "demonslayercodex"
+    ],
+    "<:gbargecodex:1004453769112735764>": [
+        "gbargecodex"
+    ],
+    "<:gflurrycodex:1004453767397249144>": [
+        "gflurrycodex"
+    ],
+    "<:gricocodex:1004454436690739311>": [
+        "gricocodex"
+    ],
+    "<:precise:1005204971886743572>": [
+        "precise"
+    ],
+    "<:equilibrium:1005205003893485638>": [
+        "equilibrium"
+    ],
+    "<:prayer:1005450651347730533>": [
+        "prayer"
+    ],
+    "<:pulsecore:1005450653390360626>": [
+        "pulsecore"
+    ],
+    "<:signoflife:1005552211847295076>": [
+        "signoflife"
+    ],
+    "<:portentoflife:1005552210081493052>": [
+        "portentoflife"
+    ],
+    "<:signofdeath:1005552215190151232>": [
+        "signofdeath"
+    ],
+    "<:portentofdeath:1005552213529215076>": [
+        "portentofdeath"
+    ],
+    "<:defencecape:1005552207824953456>": [
+        "defencecape"
+    ],
+    "<:war:1005552206302416986>": [
+        "war"
+    ],
+    "<:aurarefresh1:1005552204230426787>": [
+        "aurarefresh1"
+    ],
+    "<:aurarefresh2:1005552202468839445>": [
+        "aurarefresh2"
+    ],
+    "<:aurarefresh3:1005552198702334086>": [
+        "aurarefresh3"
+    ],
+    "<:aurarefresh4:1005552200677851187>": [
+        "aurarefresh4"
+    ],
+    "<:maskoftheautomatons:1005877227315011664>": [
+        "maskoftheautomatons"
+    ],
+    "<:mostwantedcardabbydemon:1005877256884867152>": [
+        "mostwantedcardabbydemon"
+    ],
+    "<:mostwantedcardautomaton:1005877287327125594>": [
+        "mostwantedcardautomaton"
+    ],
+    "<:mostwantedcardglacor:1005877303722659840>": [
+        "mostwantedcardglacor"
+    ],
+    "<:mostwantedcardtormenteddemon:1005877321212907561>": [
+        "mostwantedcardtormenteddemon"
+    ],
+    "<:greenbeam:1006129858889404467>": [
+        "greenbeam"
+    ],
+    "<:redbeam:1006129857173925908>": [
+        "redbeam"
+    ],
+    "<:blackbeam:1006129855001264199>": [
+        "blackbeam"
+    ],
+    "<:revenantdropenhancer:1006481325076787240>": [
+        "revenantdropenhancer"
+    ],
+    "<:enchantmentofaffliction:1006481321087991819>": [
+        "enchantmentofaffliction"
+    ],
+    "<:enchantmentofagony:1006481311378190456>": [
+        "enchantmentofagony"
+    ],
+    "<:enchantmentofdispelling:1006481317266993193>": [
+        "enchantmentofdispelling"
+    ],
+    "<:enchantmentofdread:1006481315199209524>": [
+        "enchantmentofdread"
+    ],
+    "<:enchantmentofflames:1006481322799267951>": [
+        "enchantmentofflames"
+    ],
+    "<:enchantmentofheroism:1006481309524299786>": [
+        "enchantmentofheroism"
+    ],
+    "<:enchantmentofmetaphysics:1006481318990856202>": [
+        "enchantmentofmetaphysics"
+    ],
+    "<:enchantmentofsavagery:1006481307443937310>": [
+        "enchantmentofsavagery"
+    ],
+    "<:enchantmentofshadows:1006481313190129694>": [
+        "enchantmentofshadows"
     ]
 }
