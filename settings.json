@@ -1123,20 +1123,20 @@
     "<:mechchin:641669268722810881>": [
         "mechchin"
     ],
-    "<:dm:643505652571963417>": [
-        "dm"
+    "<:darkmagic:643505652571963417>": [
+        "darkmagic"
     ],
     "<:inspiration:643505652634746881>": [
         "inspiration"
     ],
-    "<:invig:643505652865695767>": [
-        "invig"
+    "<:invigaura:643505652865695767>": [
+        "invigaura"
     ],
-    "<:penance:643505653062565907>": [
-        "penance"
+    "<:penanceaura:643505653062565907>": [
+        "penanceaura"
     ],
-    "<:vamp:643505653079343144>": [
-        "vamp"
+    "<:vampaura:643505653079343144>": [
+        "vampaura"
     ],
     "<:RanarrSticks:690987265186594857>": [
         "RanarrSticks"
@@ -5045,5 +5045,8 @@
     ],
     "<:wildernesssword:1009419838764109834>": [
         "wildernesssword"
+    ],
+    "<:invigorating:1009422698633502881>": [
+        "invigorating"
     ]
 }
