@@ -2414,7 +2414,9 @@
     "<:mds:535541259033378827>": [
         "mds",
         "greaterdazingshot",
-        "greaterdazing"
+        "greaterdazing",
+        "gdazing",
+        "gdazingshot"
     ],
     "<:needle:535541259108876293>": [
         "needle"
@@ -2601,7 +2603,8 @@
         "fbackhand"
     ],
     "<:meteorstrike:535532879359377439>": [
-        "meteorstrike"
+        "meteorstrike",
+        "meteor"
     ],
     "<:dismember:535532879376023572>": [
         "dismember"
