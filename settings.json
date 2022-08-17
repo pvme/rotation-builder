@@ -1495,7 +1495,8 @@
         "Cept"
     ],
     "<:Veng:543478434953822208>": [
-        "Veng"
+        "Veng",
+        "vengance"
     ],
     "<:SBS:543875425055670275>": [
         "SBS"
@@ -5057,5 +5058,11 @@
     ],
     "<:lunging:1009423860875153559>": [
         "lunging"
+    ],
+    "<:venggroup:1009570755836641331>": [
+        "venggroup",
+        "groupveng",
+        "vengancegroup".
+        "groupvengance"
     ]
 }
