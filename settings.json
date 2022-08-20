@@ -3583,8 +3583,9 @@
     "<:ascendribolt:643170748495691796>": [
         "ascendribolt"
     ],
-    "<:onyx:643411078763511828>": [
-        "onyx"
+    "<:uncutonyx:643411078763511828>": [
+        "uncutonyx",
+        "onyxuncut"
     ],
     "<:onyxbolt:643411078872694804>": [
         "onyxbolt"
@@ -5064,5 +5065,26 @@
         "groupveng",
         "vengancegroup",
         "groupvengance"
+    ],
+    "<:divinecharge:1010485547598356530>": [
+        "divinecharge"
+    ],
+    "<:onyx:1010485544188391424>": [
+        "onyx"
+    ],
+    "<:uncuthydrix:1010485542456135730>": [
+        "uncuthydrix",
+        "hydrixuncut"
+    ],
+    "<:hydrix:1010485540874887218>": [
+        "hydrix"
+    ],
+    "<:alchemicalhydrixdust:1010485545480228895>": [
+        "alchemicalhydrixdust",
+        "hydrixdust"
+    ],
+    "<:protectitem:1010486261682810891>": [
+        "protectitem",
+        "itemprotect"
     ]
 }
