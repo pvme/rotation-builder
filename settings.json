@@ -1414,6 +1414,7 @@
         "ruthless1"
     ],
     "<:adrenrenewalflask:736298313980182541>": [
+        "adrenalinerenewalflask",
         "adrenrenewalflask"
     ],
     "<:lunge4:736522494315593759>": [
@@ -2996,6 +2997,7 @@
         "coins"
     ],
     "<:adrenrenewal:736298121704767538>": [
+        "adrenalinerenewal",
         "adrenrenewal"
     ],
     "<:delicateparts:583434317301022723>": [
@@ -5086,5 +5088,14 @@
     "<:protectitem:1010486261682810891>": [
         "protectitem",
         "itemprotect"
+    ],
+    "<:adrenalinepotion:1011705731118006544>": [
+        "adrenalinepotion"
+    ],
+    "<:cooking:1011705729192820747>": [
+        "cooking"
+    ],
+    "<:firemaking:1011705727041163396>": [
+        "firemaking"
     ]
 }
