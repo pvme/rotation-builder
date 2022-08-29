@@ -81,15 +81,25 @@ $(document).ready(function() {
     });
 
 
-    // handle copy button clicked
-    $('#copy').click(function() {
+    // handle copy discord button clicked
+    $('#copyDiscord').click(function() {
+        let copyResult = clipboardText;
+        
         // very pepega way of converting images back to emojis
         for (const emoji of emojiLUT) {
-            clipboardText = clipboardText.replace(new RegExp('<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png.v=1">', 'g'), emoji[1]);
+            copyResult = copyResult.replace(new RegExp('<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png.v=1">', 'g'), emoji[1]);
         }
 
         // copy to clipboard
-        navigator.clipboard.writeText(clipboardText);
+        navigator.clipboard.writeText(copyResult);
+    });
+
+     // handle copy draw.io button clicked
+     $('#copyDrawIO').click(function() {
+        let copyResult = clipboardText.replace(/class="disc-emoji"/gi, `style="width: 1.375em; height: 1.375em !important; object-fit: contain; vertical-align: middle;"`);
+        
+        // copy to clipboard
+        navigator.clipboard.writeText(copyResult);
     });
 
     // handle change view button clicked
