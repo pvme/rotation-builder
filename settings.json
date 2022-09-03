@@ -5109,5 +5109,17 @@
     ],
     "<:woodcutting:1014248186782699541>": [
         "woodcutting"
+    ],
+    "<:vengother:1015698983034826794>": [
+        "vengother",
+        "venganceother"
+    ],
+    "<:bloodfury:1015698981118038117>": [
+        "bloodfury",
+        "bloodamuletoffury"
+    ],
+    "<:bloodnecklaceshard:1015699014764728492>": [
+        "bloodnecklaceshard",
+        "bloodshard"
     ]
 }
