@@ -5361,5 +5361,74 @@
     ],
     "<:remotefarm:1037463863492354049>": [
         "remotefarm"
+    ],
+    "<:searingpain:1039862834177253509>": [
+        "searingpain"
+    ],
+    "<:geothermalburn:1039862832382099466>": [
+        "geothermalburn"
+    ],
+    "<:portsenhancer:1039863298704801823>": [
+        "portsenhancer"
+    ],
+    "<:portsancientbones:1039863294741196820>": [
+        "portsancientbones"
+    ],
+    "<:portschi:1039863287099174912>": [
+        "portschi"
+    ],
+    "<:portskoiscales:1039863284901347340>": [
+        "portskoiscales"
+    ],
+    "<:portslacquer:1039863288911110145>": [
+        "portslacquer"
+    ],
+    "<:portspearls:1039863283341082624>": [
+        "portspearls"
+    ],
+    "<:portsplate:1039863292966993941>": [
+        "portsplate"
+    ],
+    "<:producepoints:1037463865736298506>": [
+        "producepoints"
+    ],
+    "<:portsspices:1039863291301859399>": [
+        "portsspices"
+    ],
+    "<:augmentor:1039863296729296946>": [
+        "augmentor"
+    ],
+    "<:augmentationdissolver:1039869647677313144>": [
+        "augmentationdissolver"
+    ],
+    "<:gizmodissolver:1039869649975787580>": [
+        "gizmodissolver"
+    ],
+    "<:equipmentsiphon:1039869644175069204>": [
+        "equipmentsiphon"
+    ],
+    "<:equipmentseperator:1039869642455404594>": [
+        "equipmentseperator"
+    ],
+    "<:xpcapacitor:1039869645768884256>": [
+        "xpcapacitor"
+    ],
+    "<:agility:1039864819760758844>": [
+        "agility"
+    ],
+    "<:construction:1039864812458491924>": [
+        "construction"
+    ],
+    "<:crafting:1039864810239705119>": [
+        "crafting"
+    ],
+    "<:fletching:1039864817881722960>": [
+        "fletching"
+    ],
+    "<:runecrafting:1039864816073969734>": [
+        "runecrafting"
+    ],
+    "<:smithing:1039864814379466812>": [
+        "smithing"
     ]
 }
