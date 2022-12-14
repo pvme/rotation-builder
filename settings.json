@@ -5492,12 +5492,16 @@
         "divemobile"
     ],
     "<:protectfrommagic:1052551456835768351>": [
-        "protectfrommagic"
+        "protectfrommagic",
+        "protectmagic"
     ],
     "<:protectfrommelee:1052551452788269127>": [
-        "protectfrommelee"
+        "protectfrommelee",
+        "protectmelee"
     ],
     "<:protectfrommissiles:1052551455078367313>": [
-        "protectfrommissiles"
+        "protectfrommissiles",
+        "protectmissiles",
+        "protectrange"
     ]
 }
