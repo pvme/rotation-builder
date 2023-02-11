@@ -5503,5 +5503,21 @@
         "protectfrommissiles",
         "protectmissiles",
         "protectrange"
+    ],
+    "<:eatfood:1073883122069934182>": [
+        "eatfood"
+    ],
+    "<:bindingcontract:1073883118521557052>": [
+        "bindingcontract"
+    ],
+    "<:bandoshelm:1073883114797010974>": [
+        "bandoshelm"
+    ],
+    "<:bandosboots:1073883112884424744>": [
+        "bandosboots"
+    ],
+    "<:realmmovement:1073955377537876089>": [
+        "realmmovement:1073955377537876089",
+        "zamorakbutton"
     ]
 }
