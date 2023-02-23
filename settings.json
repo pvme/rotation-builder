@@ -5519,5 +5519,32 @@
     "<:realmmovement:1073955377537876089>": [
         "realmmovement:1073955377537876089",
         "zamorakbutton"
+    ],
+    "<:proteanbar:1078370227651354715>": [
+        "proteanbar"
+    ],
+    "<:proteancog:1078370237902245968>": [
+        "proteancog"
+    ],
+    "<:proteanessence:1078370249960861807>": [
+        "proteanessence"
+    ],
+    "<:proteanhide:1078370232864886905>": [
+        "proteanhide"
+    ],
+    "<:proteanmemory:1078370243195445338>": [
+        "proteanmemory"
+    ],
+    "<:proteanplank:1078370229446524960>": [
+        "proteanplank"
+    ],
+    "<:proteanprotein:1078370241043771493>": [
+        "proteanprotein"
+    ],
+    "<:proteanshake:1078370246391504997>": [
+        "proteanshake"
+    ],
+    "<:proteantrap:1078370235960270948>": [
+        "proteantrap"
     ]
 }
