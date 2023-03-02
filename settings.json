@@ -5520,6 +5520,12 @@
         "realmmovement:1073955377537876089",
         "zamorakbutton"
     ],
+     "<:adamantdragon:1080862288006873138>": [
+        "adamantdragon"
+    ],
+     "<:mithrildragon:1080862292016644176>": [
+        "mithrildragon"
+    ],
     "<:proteanbar:1078370227651354715>": [
         "proteanbar"
     ],
@@ -5546,5 +5552,11 @@
     ],
     "<:proteantrap:1078370235960270948>": [
         "proteantrap"
+    ],
+    "<:ghastpouch:1080862453421838389>": [
+        "ghastpouch"
+    ],
+    "<:dragonslayergloves:1080862450167054356>": [
+        "dragonslayergloves"
     ]
 }
