@@ -5571,5 +5571,17 @@
     "<:p2:1084799750416637993>": [
         "p2",
         "precise2"
+    ],
+    "<:blankcircle:1086207349162782720>": [
+        "blankcircle"
+    ],
+    "<:greencircle:1086207346054811669>": [
+        "greencircle"
+    ],
+    "<:yellowcircle:1086207344255434762>": [
+        "yellowcircle"
+    ],
+    "<:redcircle:1086207340568649800>": [
+        "redcircle"
     ]
 }
