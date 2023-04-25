@@ -175,7 +175,8 @@
     "elitesirenicbody"
   ],
   "<:elitesirenicmask:643846921944956929>": [
-    "elitesirenicmask"
+    "elitesirenicmask",
+    "esirenichelm"
   ],
   "<:sireniclegs:643846938537623564>": [
     "sireniclegs"
@@ -184,7 +185,8 @@
     "sirenicbody"
   ],
   "<:sirenicmask:643846959454617610>": [
-    "sirenicmask"
+    "sirenicmask",
+    "sirenichelm"
   ],
   "<:malevlegs:643846985513828400>": [
     "malevlegs"
@@ -464,7 +466,8 @@
     "Shadowtectbody"
   ],
   "<:elitetectlegs:580177869272121344>": [
-    "elitetectlegs"
+    "elitetectlegs",
+    "etectlegs"
   ],
   "<:hoodedmax:580177869284835328>": [
     "HoodedMax"
@@ -1525,7 +1528,8 @@
     "HydrixBakri"
   ],
   "<:elitetectbody:552955120707698699>": [
-    "elitetectbody"
+    "elitetectbody",
+    "etectbody"
   ],
   "<:transfigure:553050196523876354>": [
     "Transfigure"
@@ -1924,7 +1928,8 @@
     "Elderrunehelm5"
   ],
   "<:elitetectmask:556582803014418432>": [
-    "elitetectmask"
+    "elitetectmask",
+    "etectmask"
   ],
   "<:armadylhelmet:556582831527034919>": [
     "Armadylhelmet"
@@ -2137,7 +2142,8 @@
     "HarAken"
   ],
   "<:supremedagganoth:513212948798504980>": [
-    "SupremeDagganoth"
+    "SupremeDagganoth",
+    "supreme"
   ],
   "<:telos:513212949033123840>": [
     "Telos"
@@ -2152,16 +2158,20 @@
     "KalphiteKing"
   ],
   "<:twinfury:513212995892019211>": [
-    "TwinFury"
+    "TwinFury",
+    "twins"
   ],
   "<:kreearra:513212996353261568>": [
-    "KreeArra"
+    "KreeArra",
+    "kree"
   ],
   "<:commanderzilyana:513212996437409793>": [
-    "CommanderZilyana"
+    "CommanderZilyana",
+    "zily"
   ],
   "<:corporealbeast:513212996726685749>": [
-    "CorporealBeast"
+    "CorporealBeast",
+    "corp"
   ],
   "<:beastmasterdurzag:513212996948983809>": [
     "BeastmasterDurzag"
@@ -2170,19 +2180,22 @@
     "Graardor"
   ],
   "<:gregorovic:513212998274383914>": [
-    "Gregorovic"
+    "Gregorovic",
+    "greg"
   ],
   "<:kbd:513213018054852648>": [
     "KBD"
   ],
   "<:kriltsutsaroth:513213018352386058>": [
-    "KrilTsutsaroth"
+    "KrilTsutsaroth",
+    "kril"
   ],
   "<:legion:513213018444922900>": [
     "Legion"
   ],
   "<:araxxi:513213019543699466>": [
-    "Araxxi"
+    "Araxxi",
+    "rax"
   ],
   "<:helwyr:513213019635843100>": [
     "Helwyr"
@@ -4305,7 +4318,9 @@
     "drygorerapiermh"
   ],
   "<:upgradedboneblowpipe:925794591830056961>": [
-    "upgradedboneblowpipe"
+    "upgradedboneblowpipe",
+    "toxicblowpipe",
+    "upgradedblowpipe"
   ],
   "<:aggressionflask:925794591834275891>": [
     "aggressionflask"
@@ -4371,7 +4386,8 @@
     "abyssalflesh"
   ],
   "<:abyssalscourge:947871842469834832>": [
-    "abyssalscourge"
+    "abyssalscourge",
+    "scourge"
   ],
   "<:jawsoftheabyss:947871842595639306>": [
     "jawsoftheabyss"
@@ -5697,5 +5713,17 @@
   "<:extremehunterflask:1097529794742194209>": [
     "extremehunterflask",
     "exthunterflask"
+  ],
+  "<:obsidianmagehelm:1100353893063462912>": [
+    "obsidianmagehelm",
+    "obbymage"
+  ],
+  "<:obsidianrangerhelm:1100353910130102312>": [
+    "obsidianmagehelm",
+    "obbyrange"
+  ],
+  "<:obsidianwarriorhelm:1100353943277686924>": [
+    "obsidianmagehelm",
+    "obbymelee"
   ]
 }
