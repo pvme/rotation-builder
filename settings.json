@@ -2255,7 +2255,8 @@
     "Dharokhead"
   ],
   "<:dagannothrex:513222840351195147>": [
-    "DagannothRex"
+    "DagannothRex",
+    "rex"
   ],
   "<:chaoselemental:513222840414109706>": [
     "ChaosElemental"
@@ -5719,11 +5720,11 @@
     "obbymage"
   ],
   "<:obsidianrangerhelm:1100353910130102312>": [
-    "obsidianmagehelm",
+    "obsidianrangerhelm",
     "obbyrange"
   ],
   "<:obsidianwarriorhelm:1100353943277686924>": [
-    "obsidianmagehelm",
+    "obsidianwarriorhelm",
     "obbymelee"
   ]
 }
