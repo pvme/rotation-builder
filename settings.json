@@ -5702,21 +5702,19 @@
       "masterconstructorhat",
       "conoutfithat"
     ],
-    "<:masterconstructorjacket:1097525114909773924>": [
-      "masterconstructorjacket",
-      "conoutfitjacket"
+    "<:masterfarmerhat:1104718154371977326>": [
+      "masterfarmerhat",
+      "farmerhat"
     ],
-    "<:masterconstructortrousers:1097525119087300680>": [
-      "masterconstructortrousers",
-      "conoutfittrousers"
+    "<:furysharkhead:1104718189369241631>": [
+      "furysharkhead"
     ],
-    "<:masterconstructorgloves:1097525124946743516>": [
-      "masterconstructorgloves",
-      "conoutfitgloves"
+    "<:infinityetherealhead:1104718191797731409>": [
+      "runecraftinghead",
+      "infinityetherealhead"
     ],
-    "<:masterconstructorboots:1097525121251553341>": [
-      "masterconstructorboots",
-      "conoutfitboots"
+    "<:magicgolemhead:1104718186227695657>": [
+      "magicgolemhead"
     ],
     "<:extremehunter1:1097526501571821588>": [
       "exthunter1",
@@ -5775,5 +5773,29 @@
     ],
     "<:clearheaded:1102900937460285470>": [
       "clearheaded"
+    ],
+    "<:harmonicdust:1104716942885003304>": [
+      "harmonicdust",
+      "harmdust"
+    ],
+    "<:elderdivhead:1104717361849827419>": [
+      "elderdivhead",
+      "elderdivinationhead"
+    ],
+    "<:mastercamohead:1104716994693058641>": [
+      "mastercamohead",
+      "mastercamouflagehead"
+    ],
+    "<:naturesentinelhead:1104717297219797052>": [
+      "naturesentinelhead",
+      "naturessentinelhead"
+    ],
+    "<:volcanictrapperhead:1104717138670919836>": [
+      "volctrapperhead",
+      "volcanictrapperhead"
+    ],
+    "<:instakill:1104794644497309809>": [
+      "instakill",
+      "instantkill"
     ]
   }
