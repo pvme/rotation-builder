@@ -1525,8 +1525,9 @@
   "<:aosor:544200033847869443>": [
     "aosor"
   ],
-  "<:rexuwu:547553146650755100>": [
-    "rexuwu"
+  "<:scavenging:1109429520995463288>": [
+    "scav",
+    "scavenging"
   ],
   "<:superprayerrenewal:547603714681339915>": [
     "SuperPrayerRenewal"
@@ -4965,13 +4966,17 @@
     "gchaincodex"
   ],
   "<:gsunshinecodex:1095409577014599701>": [
-    "gsunshinecodex"
+    "gsunshinecodex",
+    "gsuncodex",
+    "greatersuncodex"
   ],
   "<:divertcodex:1004453782471573665>": [
     "divertcodex"
   ],
   "<:gdeathsswiftcodex:1095409580420374568>": [
-    "gdeathsswiftcodex"
+    "gdeathsswiftcodex",
+    "gdscodex",
+    "greaterdeathsswiftnesscodex"
   ],
   "<:limitlesscodex:1004453778302439525>": [
     "limitlesscodex"
@@ -5814,5 +5819,20 @@
   "<:deathtoucheddart:1106421990044213269>": [
     "dtd",
     "deathtoucheddart"
+  ],
+  "<:smokedevil:1109432590865281126>": [
+    "smokedevil"   
+  ],
+  "<:dustcloud:1109432587086200953>": [
+    "dustcloud",
+    "smokedevilspec"
+  ],
+  "<:alchonyx:1109427809140609054>": [
+    "alchonyx",
+    "alchemicalonyx"
+  ],
+  "<:redchin:1109432592945659904>": [
+    "redchin",
+    "redchinchompa"
   ]
 }
