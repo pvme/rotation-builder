@@ -1103,22 +1103,6 @@
   "<:shadowdrygorerapiermh:581180471011180585>": [
     "shadowdrygorerapiermh"
   ],
-  "<:pol:595794857688301570>": [
-    "PoL"
-  ],
-  "<:sip:595794857700622359>": [
-    "SIP"
-  ],
-  "<:pod:595794857805479977>": [
-    "PoD"
-  ],
-  "<:sol:595794858044686339>": [
-    "SoL",
-    "signoflife"
-  ],
-  "<:sod:595794858048749568>": [
-    "SoD"
-  ],
   "<:barrowscore:615617138488639541>": [
     "barrowscore"
   ],
@@ -1403,12 +1387,6 @@
   "<:ripperpouch:703581275453128714>": [
     "ripperpouch"
   ],
-  "<:lung4:712073737247260753>": [
-    "lung4"
-  ],
-  "<:turt4:712073737377284146>": [
-    "turt4"
-  ],
   "<:as4:712074245202772009>": [
     "as4"
   ],
@@ -1426,7 +1404,8 @@
     "adrenrenewalflask"
   ],
   "<:lunge4:736522494315593759>": [
-    "lunge4"
+    "lunge4",
+    "lung4"
   ],
   "<:maul:736524968174682132>": [
     "maul"
@@ -1439,9 +1418,6 @@
   ],
   "<:eofspec:746403211908481184>": [
     "eofspec"
-  ],
-  "<:armourspike:756235792053174332>": [
-    "armourspike"
   ],
   "<:accel:756236265472524418>": [
     "accel"
@@ -2283,9 +2259,6 @@
   ],
   "<:reeves:513226730111238145>": [
     "Reeves"
-  ],
-  "<:pernixcowl:517417560434540545>": [
-    "PernixCowl"
   ],
   "<:dormantsgb:517418300481863681>": [
     "DormantSGB"
@@ -3527,7 +3500,8 @@
     "impercore"
   ],
   "<:praeswand:643166769518739477>": [
-    "praeswand"
+    "praeswand",
+    "pwand"
   ],
   "<:bloodchest:643166795208851467>": [
     "bloodchest"
@@ -3588,9 +3562,6 @@
   ],
   "<:purplemushroom:643168594565267466>": [
     "purplemushroom"
-  ],
-  "<:greatercodex:643169137098752001>": [
-    "greatercodex"
   ],
   "<:imbuedbladeslice:643169149639589918>": [
     "imbuedbladeslice"
@@ -3857,9 +3828,6 @@
   "<:gbargemobile:867678153680617473>": [
     "gbargemobile"
   ],
-  "<:soa:869284271595069451>": [
-    "soa"
-  ],
   "<:fracturedarmasymbol:869284271385346100>": [
     "fracturedarmasymbol"
   ],
@@ -4003,9 +3971,6 @@
   ],
   "<:frozencoreofleng:884739993527025704>": [
     "frozencoreofleng"
-  ],
-  "<:glacorclaw:884739993229230092>": [
-    "glacorclaw"
   ],
   "<:glacorremnants:884739993527013376>": [
     "glacorremnants"
@@ -4619,7 +4584,8 @@
     "balanceofpoweredict"
   ],
   "<:turtling4:712073737377284146>": [
-    "turtling4"
+    "turtling4",
+    "turt4"
   ],
   "<:armourspikealloy:756235792053174332>": [
     "armourspikealloy"
@@ -4634,7 +4600,8 @@
     "furycodex"
   ],
   "<:fsoa:869284271595069451>": [
-    "fsoa"
+    "fsoa",
+    "soa"
   ],
   "<:glacorcore:884739993229230092>": [
     "glacorcore"
@@ -4970,9 +4937,6 @@
     "gsuncodex",
     "greatersuncodex"
   ],
-  "<:divertcodex:1004453782471573665>": [
-    "divertcodex"
-  ],
   "<:gdeathsswiftcodex:1095409580420374568>": [
     "gdeathsswiftcodex",
     "gdscodex",
@@ -5015,7 +4979,8 @@
     "pulsecore"
   ],
   "<:signoflife:1005552211847295076>": [
-    "signoflife"
+    "signoflife",
+    "sol"
   ],
   "<:portentoflife:1005552210081493052>": [
     "portentoflife"
@@ -5834,5 +5799,8 @@
   "<:redchin:1109432592945659904>": [
     "redchin",
     "redchinchompa"
+  ],
+  "<:lastriders:1030802332386074665>": [
+    "lastriders"
   ]
 }
