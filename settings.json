@@ -66,7 +66,8 @@
     "noxstaff"
   ],
   "<:noxscythe:513190159341322240>": [
-    "noxscythe"
+    "noxscythe",
+    "scythe"
   ],
   "<:reaperorkit:513190159349448715>": [
     "reaperorkit"
@@ -1774,7 +1775,8 @@
     "masterworkglove"
   ],
   "<:glovesofpassage:556588694862037012>": [
-    "Glovesofpassage"
+    "glovesofpassage",
+    "gop"
   ],
   "<:superiorseasingeraonori:556588694979739652>": [
     "Superiorseasingeraonori"
@@ -5815,5 +5817,8 @@
   ],
   "<:demonicskull:1114257428842811463>": [
     "demonicskull"
+  ],
+  "<:vanquish:1122902763492343808>": [
+    "vanquish"
   ]
 }
