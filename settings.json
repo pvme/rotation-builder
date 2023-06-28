@@ -5820,5 +5820,86 @@
   ],
   "<:vanquish:1122902763492343808>": [
     "vanquish"
+  ],
+  "<:easyclue:1123586950989885510>": [
+    "easyclue"
+  ],
+  "<:mediumclue:1123586948905324637>": [
+    "mediumclue"
+  ],
+  "<:hardclue:1123586945273049109>": [
+    "hardclue"
+  ],
+  "<:eliteclue:1123586941057769552>": [
+    "eliteclue"
+  ],
+  "<:masterclue:1123586937245151303>": [
+    "masterclue"
+  ],
+  "<:easycasket:1123586935756169289>": [
+    "easycasket"
+  ],
+  "<:mediumcasket:1123586931964526643>": [
+    "mediumcasket"
+  ],
+  "<:hardcasket:1123586928550363186>": [
+    "hardcasket"
+  ],
+  "<:elitecasket:1123586924708384828>": [
+    "elitecasket"
+  ],
+  "<:mastercasket:1123586922300837900>": [
+    "mastercasket"
+  ],
+  "<:easyreroll:1123586920321134602>": [
+    "easyreroll"
+  ],
+  "<:mediumreroll:1123586916651118632>": [
+    "mediumreroll"
+  ],
+  "<:hardreroll:1123586913601863750>": [
+    "hardreroll"
+  ],
+  "<:elitereroll:1123586911303368745>": [
+    "elitereroll"
+  ],
+  "<:masterreroll:1123586907775967322>": [
+    "masterreroll"
+  ],
+  "<:costumeskipticket:1123590734507954215>": [
+    "costumeskipticket"
+  ],
+  "<:knotskipticket:1123590729671913573>": [
+    "knotskipticket"
+  ],
+  "<:lockboxskipticket:1123590722294132816>": [
+    "lockboxskipticket"
+  ],
+  "<:puzzleskipticket:1123590720301830215>": [
+    "puzzleskipticket"
+  ],
+  "<:towerskipticket:1123590716933804052>": [
+    "towerskipticket"
+  ],
+  "<:orlandosmithhat:1123592263927332935>": [
+    "orlandosmithhat"
+  ],
+  "<:globetrotterjacket:1123592261175889971>": [
+    "globetrotterjacket",
+    "globetrotterbody"
+  ],
+  "<:globetrotterlegs:1123592257556205638>": [
+    "globetrotterlegs",
+    "globetrottershorts"
+  ],
+  "<:globetrotterboots:1123592254066536478>": [
+    "globetrotterboots"
+  ],
+  "<:globetrottergloves:1123592252036493344>": [
+    "globetrottergloves",
+    "globetrotterarmguards"
+  ],
+  "<:globetrotterbackpack:1123592248056102993>": [
+    "globetrotterbackpack"
   ]
 }
