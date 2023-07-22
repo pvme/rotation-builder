@@ -2274,8 +2274,8 @@
   "<:reprisalcodex:517418828540542977>": [
     "Reprisalcodex"
   ],
-  "<:deflectpernix:519622413705805824>": [
-    "deflectpernix"
+  "<:supremewarmasters:1132202567875702864>": [
+    "supremewarmasters"
   ],
   "<:spiritsticks:565726489136463894>": [
     "SpiritSticks"
@@ -2331,8 +2331,8 @@
   "<:stagger:567727997545611277>": [
     "Stagger"
   ],
-  "<:benis:568117404522119169>": [
-    "benis"
+  "<:berserkerprayer:1132202074147409991>": [
+    "berserkerprayer"
   ],
   "<:death:641341976960172043>": [
     "death"
@@ -5911,5 +5911,14 @@
   "<:wildcards:1130171148349485186>": [
     "wildcards",
     "slayerwildcards"
+  ],
+  "<:berserkerbloodess:1132205017546358794>": [
+    "berserkerbloodessence",
+    "berserkerbloodess",
+    "zerkess"
+  ],
+  "<:dwarvenrockcake:1132202052567715890>": [
+    "dwarvenrockcake",
+    "rockcake"
   ]
 }
