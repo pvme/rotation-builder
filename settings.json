@@ -2097,8 +2097,8 @@
     "Noxiouscomp",
     "noxcomp"
   ],
-  "<:grips:513204675881992205>": [
-    "Grips"
+  "<:extremeattack:1133056073339785349>": [
+    "extremeattack"
   ],
   "<:deathlotus:513204675948838922>": [
     "DeathLotus"
@@ -2786,16 +2786,16 @@
   "<:cywircomp:583430147538026496>": [
     "cywircomp"
   ],
-  "<:merciless:583430258829688854>": [
-    "merciless",
-    "Mercilesskiteshield"
+  "<:supremeranging:1133050157294956714>": [
+    "supremeranging",
+    "supremerangingpotion"
   ],
   "<:summoning:583430259064569856>": [
     "Summoning"
   ],
-  "<:vengeful:583430259110576140>": [
-    "vengeful",
-    "vengefulkiteshield"
+  "<:supremeattack:1133053895917182986>": [
+    "supremeattack",
+    "supremeattackpotion"
   ],
   "<:bsd:583430542326759435>": [
     "BSD"
@@ -3484,7 +3484,8 @@
     "csignet6"
   ],
   "<:ascgrips:643166338461859850>": [
-    "ascgrips"
+    "ascgrips",
+    "grips"
   ],
   "<:glovespassage:643166351585706060>": [
     "glovespassage"
@@ -5736,7 +5737,8 @@
     "vengekite"
   ],
   "<:merciless:1102553021457645579>": [
-    "merciless"
+    "merciless",
+    "mercilesskite"
   ],
   "<:alaeaseasalt:1102897861286432778>": [
     "alaeaseasalt"
