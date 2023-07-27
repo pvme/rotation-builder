@@ -6,17 +6,11 @@
   "<:aos:513190158359724056>": [
     "aos"
   ],
-  "<:bloodtend:513190158431158274>": [
-    "BloodTend"
-  ],
   "<:ascmh:513190158468775936>": [
     "ascmh"
   ],
   "<:affliction:513190158468907008>": [
     "Affliction"
-  ],
-  "<:berserk:513190158468907012>": [
-    "Berserk"
   ],
   "<:asr:513190158472839208>": [
     "asr"
@@ -109,9 +103,6 @@
   "<:cruelty:513190159546712074>": [
     "Cruelty"
   ],
-  "<:core:625304432581672961>": [
-    "Core"
-  ],
   "<:bbc:626714879218155521>": [
     "bbc"
   ],
@@ -140,7 +131,7 @@
     "auratotem"
   ],
   "<:yakahelm2:725230791260504144>": [
-    "yakahelm2"
+    "yakahelm"
   ],
   "<:royalcrossbow:798285340439871558>": [
     "royalcrossbow"
@@ -159,9 +150,6 @@
   ],
   "<:kalphiterepriser:643846849362657280>": [
     "kalphiterepriser"
-  ],
-  "<:augcywir:643846874444595200>": [
-    "augcywir"
   ],
   "<:ancientdefender:643846874498990120>": [
     "ancientdefender"
@@ -200,9 +188,6 @@
   ],
   "<:masterworkboots:643847030824894477>": [
     "masterworkboots"
-  ],
-  "<:masterworklegs:643847042170355736>": [
-    "masterworklegs"
   ],
   "<:masterworkbody:643847056527458324>": [
     "masterworkbody"
@@ -267,9 +252,6 @@
   ],
   "<:rapieroh:656785061072338954>": [
     "rapieroh"
-  ],
-  "<:augseissing:656785077883109407>": [
-    "augseissing"
   ],
   "<:vbook:656785078160195615>": [
     "vbook"
@@ -365,7 +347,8 @@
     "Lawrune"
   ],
   "<:stormshards:536256663641128971>": [
-    "stormshards"
+    "stormshards",
+    "shard"
   ],
   "<:shatter:536256673904328704>": [
     "Shatter"
@@ -1072,7 +1055,8 @@
     "barrowsdye"
   ],
   "<:range:580168050121113623>": [
-    "range"
+    "range",
+    "ranged"
   ],
   "<:icedrygorerapiermh:581180456268201985>": [
     "icedrygorerapiermh"
@@ -1532,7 +1516,8 @@
     "Siphon"
   ],
   "<:replenpot:641337470491033600>": [
-    "replenpot"
+    "replenpot",
+    "replen"
   ],
   "<:supremeovl:641337551365472276>": [
     "supremeovl"
@@ -2081,7 +2066,9 @@
     "tuska"
   ],
   "<:rov:513201065877831680>": [
-    "RoV"
+    "RoV",
+    "vigour",
+    "ringofvigour"
   ],
   "<:sacrifice:513201065907322880>": [
     "Sacrifice"
@@ -2517,9 +2504,6 @@
   "<:enhreplen:634350450887622656>": [
     "enhreplen"
   ],
-  "<:replen:634350514406162436>": [
-    "replen"
-  ],
   "<:restore:642708657825644554>": [
     "restore"
   ],
@@ -2533,11 +2517,9 @@
   "<:barge:535532853916860437>": [
     "barge"
   ],
-  "<:assault:535532853979512842>": [
-    "assault"
-  ],
   "<:zerk:535532854004678657>": [
-    "zerk"
+    "zerk",
+    "berserk"
   ],
   "<:bd:535532854281764884>": [
     "bd"
@@ -2749,17 +2731,8 @@
   "<:achtoteralithbody:583428622136901633>": [
     "achtoteralithbody"
   ],
-  "<:smoketend:583429557672083505>": [
-    "smoketend"
-  ],
   "<:seiswand:583429704837758997>": [
     "seiswand"
-  ],
-  "<:shatter:583429757761224715>": [
-    "Shatter"
-  ],
-  "<:shard:583429757975396366>": [
-    "Shard"
   ],
   "<:turmoil:583429936606347280>": [
     "turmoil"
@@ -2769,9 +2742,6 @@
   ],
   "<:torment:583429936958930964>": [
     "torment"
-  ],
-  "<:seissing:583430011831189527>": [
-    "seissing"
   ],
   "<:runepouch:583430011868938283>": [
     "runepouch"
@@ -2905,9 +2875,6 @@
   "<:melee:1096130867279171706>": [
     "melee"
   ],
-  "<:vigour:615613235512737792>": [
-    "vigour"
-  ],
   "<:soulsplit:615613924506599497>": [
     "soulsplit"
   ],
@@ -2982,9 +2949,6 @@
   ],
   "<:magic:689504724159823906>": [
     "Magic"
-  ],
-  "<:ranged:689504724403486920>": [
-    "Ranged"
   ],
   "<:supergrest:690140078407680059>": [
     "supergrest"
@@ -3354,9 +3318,6 @@
   "<:durzaghelm:643162669783973943>": [
     "durzaghelm"
   ],
-  "<:yakahelm:643162695667023907>": [
-    "yakahelm"
-  ],
   "<:ribsofchaos:643162714557906965>": [
     "ribsofchaos"
   ],
@@ -3500,7 +3461,9 @@
     "pcodex"
   ],
   "<:impercore:643166751067996160>": [
-    "impercore"
+    "impercore",
+    "core",
+    "imperiumcore"
   ],
   "<:praeswand:643166769518739477>": [
     "praeswand",
