@@ -5885,5 +5885,20 @@
   "<:dwarvenrockcake:1132202052567715890>": [
     "dwarvenrockcake",
     "rockcake"
+  ],
+  "<:regenerate:1137770309315997836>": [
+    "regenerate"
+  ],
+  "<:areatarget:1137770972703883354>": [
+    "areatarget"
+  ],
+  "<:multitarget:1137770974431944835>": [
+    "multitarget"
+  ],
+  "<:selftarget:1137770968736079957>": [
+    "selftarget"
+  ],
+  "<:singletarget:1137770977506369596>": [
+    "singletarget"
   ]
 }
