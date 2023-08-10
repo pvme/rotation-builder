@@ -5906,35 +5906,35 @@
   ],
   "<:deflectnecromancy:1137809111178813471>": [
     "deflectnecro",
-	"deflectnecromancy",
-	"necropray"
+    "deflectnecromancy",
+    "necropray"
   ],
   "<:fingerofdeath:1137809115066937414>": [
     "fingerofdeath",
-	"fod"
+    "fod"
   ],
   "<:greaterboneshield:1137809118283976814>": [
     "greaterboneshield",
-	"gboneshield"
+    "gboneshield"
   ],
   "<:invokedeath:1137809121983336548>": [
     "invokedeath",
-	"invdeath"
+    "invdeath"
   ],
   "<:lesserboneshield:1137809125590450276>": [
     "lesserboneshield",
-	"lboneshield"
+    "lboneshield"
   ],
   "<:lifetransfer:1137809128136388819>": [
     "lifetransfer"
   ],
   "<:livingdeath:1137809132485890108>": [
     "livingdeath",
-	"ld"
+    "ld"
   ],
   "<:necroauto:1137809137401602109>": [
     "necroauto",
-	"necromancyauto"
+    "necromancyauto"
   ],
   "<:soulsap:1137809140476031057>": [
     "soulsap"
@@ -5944,47 +5944,47 @@
   ],
   "<:spectralscythe:1137809145706319892>": [
     "spectralscythe",
-	"specscythe"
+    "specscythe"
   ],
   "<:spectralscythe2:1137809149690916945>": [
     "spectralscythe2",
-	"specscythe2"
+    "specscythe2"
   ],
   "<:spectralscythe3:1137809152043925505>": [
     "spectralscythe3",
-	"specscythe3"
+    "specscythe3"
   ],
   "<:spiritpact1:1137809156678631484>": [
     "spiritpact1",
-	"spiritpacti"
+    "spiritpacti"
   ],
   "<:spiritpact2:1137809162022166528>": [
     "spiritpact2",
-	"spiritpactii"
+    "spiritpactii"
   ],
   "<:spiritpact3:1137809165759295639>": [
     "spiritpact3",
-	"spiritpactiii"
+    "spiritpactiii"
   ],
   "<:splitsoul:1137809168368148490>": [
     "splitsoul",
-	"necross"
+    "necross"
   ],
   "<:threadsoffate:1137809172335951933>": [
     "threadsoffate",
-	"tof"
+    "tof"
   ],
   "<:touchofdeath:1137809175980810380>": [
     "touchofdeath",
-	"tod"
+    "tod"
   ],
   "<:umtele:1137809178648379482>": [
     "umteleport",
-	"umtele"
+    "umtele"
   ],
   "<:volleyofsouls:1137809182364540989>": [
     "volleyofsouls",
-	"vos"
+    "vos"
   ],
   "<:bloat:1137809185753550929>": [
     "bloat"
@@ -5994,35 +5994,35 @@
   ],
   "<:commandzombie:1137809191231295549>": [
     "commandzombie",
-	"comzom",
-	"comzombie",
-	"commandzom"
+    "comzom",
+    "comzombie",
+    "commandzom"
   ],
   "<:commandwarrior:1137809194423160883>": [
     "commandwarrior",
-	"comwar",
-	"comwarrior",
-	"commandwar"
+    "comwar",
+    "comwarrior",
+    "commandwar"
   ],
   "<:commandghost:1137809196864262154>": [
     "commandghost",
-	"comghost"
+    "comghost"
   ],
   "<:conjurezombie:1137809200219684924>": [
     "conjurezombie",
-	"conjzombie",
-	"conjurezom",
-	"conjzom"
+    "conjzombie",
+    "conjurezom",
+    "conjzom"
   ],
   "<:conjurewarrior:1137809204112011274>": [
     "conjurewarrior",
-	"conjwarrior",
-	"conjurewar",
-	"conjwar"
+    "conjwarrior",
+    "conjurewar",
+    "conjwar"
   ],
   "<:conjureghost:1137809206423060632>": [
     "conjureghost",
-	"conjghost"
+    "conjghost"
   ],
   "<:darkness:1137809209782698024>": [
     "darkness"
@@ -6032,19 +6032,19 @@
   ],
   "<:handofdoom:1137940979207376946>": [
     "handofdoom",
-	"hod"
+    "hod"
   ],
   "<:handoffate:1137940981988196445>": [
     "handoffate",
-	"hof"
+    "hof"
   ],
   "<:handofjudgement:1137940985754693644>": [
     "handofjudgement",
-	"hoj"
+    "hoj"
   ],
   "<:hasteneddecay:1137940989558935626>": [
     "hasteneddecay",
-	"hastdecay"
+    "hastdecay"
   ],
   "<:ruination:1137940996391452772>": [
     "ruination"
@@ -6057,13 +6057,13 @@
   ],
   "<:accelerateddecay:1137941007795757117>": [
     "accelerateddecay",
-	"acceldecay"
+    "acceldecay"
   ],
   "<:protectfromnecro:1137941136397324448>": [
     "protectfromnecromancy",
-	"protectfromnecro",
-	"protfromnecro",
-	"protnecro"
+    "protectfromnecro",
+    "protfromnecro",
+    "protnecro"
   ],
   "<:incantations:1137999674842808410>": [
     "incantations"
@@ -6082,97 +6082,97 @@
   ],
   "<:commandskeleton:1137809194423160883>": [
     "commandskeleton",
-	"comskele",
-	"comskeleton",
-	"commandskele"
+    "comskele",
+    "comskeleton",
+    "commandskele"
   ],
   "<:conjureskeleton:1137809204112011274>": [
     "conjureskeleton",
-	"conjskeleton",
-	"conjureskele",
-	"conjskele"
+    "conjskeleton",
+    "conjureskele",
+    "conjskele"
   ],
   "<:deathguard10:1138809314862178354>": [
     "deathguard10",
-	"t10deathguard"
+    "t10deathguard"
   ],
   "<:skulllantern10:1138809309074042950>": [
     "skulllantern10",
-	"t10skulllantern"
+    "t10skulllantern"
   ],
   "<:deathguard20:1138809304875536434>": [
     "deathguard20",
-	"t20deathguard"
+    "t20deathguard"
   ],
   "<:skulllantern20:1138809300698026064>": [
     "skulllantern20",
-	"t20skulllantern"
+    "t20skulllantern"
   ],
   "<:deathguard30:1138809296017162282>": [
     "deathguard30",
-	"t30deathguard"
+    "t30deathguard"
   ],
   "<:skulllantern30:1138809291516674190>": [
     "skulllantern30",
-	"t30skulllantern"
+    "t30skulllantern"
   ],
   "<:deathguard40:1138809286076661830>": [
     "deathguard40",
-	"t40deathguard"
+    "t40deathguard"
   ],
   "<:skulllantern40:1138809283610427452>": [
     "skulllantern40",
-	"t40skulllantern"
+    "t40skulllantern"
   ],
   "<:deathguard50:1138809279743283370>": [
     "deathguard50",
-	"t50deathguard"
+    "t50deathguard"
   ],
   "<:skulllantern50:1138809275054051393>": [
     "skulllantern50",
-	"t50skulllantern"
+    "t50skulllantern"
   ],
   "<:deathguard60:1138809270650032160>": [
     "deathguard60",
-	"t60deathguard"
+    "t60deathguard"
   ],
   "<:skulllantern60:1138809266539593748>": [
     "skulllantern60",
-	"t60skulllantern"
+    "t60skulllantern"
   ],
   "<:deathguard70:1138809262194294864>": [
     "deathguard70",
-	"t70deathguard"
+    "t70deathguard"
   ],
   "<:skulllantern70:1138809253759569970>": [
     "skulllantern70",
-	"t70skulllantern"
+    "t70skulllantern"
   ],
   "<:deathguard80:1138809249061929082>": [
     "deathguard80",
-	"t80deathguard"
+    "t80deathguard"
   ],
   "<:skulllantern80:1138809247308709988>": [
     "skulllantern80",
-	"t80skulllantern"
+    "t80skulllantern"
   ],
   "<:deathguard90:1138809243143766118>": [
     "deathguard90",
-	"t90deathguard"
+    "t90deathguard"
   ],
   "<:skulllantern90:1138809239255658587>": [
     "skulllantern90",
-	"t90skulllantern"
+    "t90skulllantern"
   ],
   "<:omniguard:1138809234922934282>": [
     "omniguard",
-	"deathguard95",
-	"t95deathguard"
+    "deathguard95",
+    "t95deathguard"
   ],
   "<:soulboundlantern:1138809230573441064>": [
     "skulllantern95",
-	"soulboundlantern",
-	"t95skulllantern"
+    "soulboundlantern",
+    "t95skulllantern"
   ],
   "<:igneouskalmor:1139200072438005851>": [
     "igneouskalmor"
