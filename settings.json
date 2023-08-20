@@ -6098,46 +6098,6 @@
     "conjureskele",
     "conjskele"
   ],
-  "<:deathguard10:1138809314862178354>": [
-    "deathguard10",
-    "t10deathguard"
-  ],
-  "<:skulllantern10:1138809309074042950>": [
-    "skulllantern10",
-    "t10skulllantern"
-  ],
-  "<:deathguard20:1138809304875536434>": [
-    "deathguard20",
-    "t20deathguard"
-  ],
-  "<:skulllantern20:1138809300698026064>": [
-    "skulllantern20",
-    "t20skulllantern"
-  ],
-  "<:deathguard30:1138809296017162282>": [
-    "deathguard30",
-    "t30deathguard"
-  ],
-  "<:skulllantern30:1138809291516674190>": [
-    "skulllantern30",
-    "t30skulllantern"
-  ],
-  "<:deathguard40:1138809286076661830>": [
-    "deathguard40",
-    "t40deathguard"
-  ],
-  "<:skulllantern40:1138809283610427452>": [
-    "skulllantern40",
-    "t40skulllantern"
-  ],
-  "<:deathguard50:1138809279743283370>": [
-    "deathguard50",
-    "t50deathguard"
-  ],
-  "<:skulllantern50:1138809275054051393>": [
-    "skulllantern50",
-    "t50skulllantern"
-  ],
   "<:deathguard60:1138809270650032160>": [
     "deathguard60",
     "t60deathguard"
@@ -6183,18 +6143,12 @@
   "<:igneouskalmor:1139200072438005851>": [
     "igneouskalmor"
   ],
-  "<:herbbag:1134863720128974940>": [
-    "herbbag"
-  ],
   "<:goldacc:1134866724043358218>": [
     "goldacc",
     "goldaccumulator"
   ],
   "<:herbicide:1134923280625709106>": [
     "herbicide"
-  ],
-  "<:herbbag:1134863720128974940>": [
-    "herbbag"
   ],
   "<:seedicide:1134924028801450065>": [
     "seedicide"
@@ -6231,5 +6185,81 @@
   "<:hermodicplate:1139533828629741668>": [
     "hermodicplate",
     "hermodplate"
+  ],
+  "<:firstnecroboots:1142416974777962527>": [
+    "firstnecroboots",
+    "footwrapsofthefirstnecromancer"
+  ],
+  "<:firstnecrohandwrap:1142416978112417812>": [
+    "firstnecrohandwrap",
+    "handwrapofthefirstnecromancer"
+  ],
+  "<:firstnecrorobebottom:1142416983284011018>": [
+    "firstnecrorobebottom",
+    "robebottomofthefirstnecromancer"
+  ],
+  "<:firstnecrorobetop:1142416986190655549>": [
+    "firstnecrorobetop",
+    "robetopofthefirstnecromancer"
+  ],
+  "<:dealerboots80:1142783481794011156>": [
+    "dealderboots80",
+    "deathdealerbootst80"
+  ],
+  "<:dealergloves80:1142783485103317042>": [
+    "dealergloves80",
+    "deathdealerglovest80"
+  ],
+  "<:dealerhood80:1142783479810117702>": [
+    "dealerhood80",
+    "deathdealerhoodt80"
+  ],
+  "<:dealerlegs80:1142783488257429504>": [
+    "dealerlegs80",
+    "deathdealerrobelegst80"
+  ],
+  "<:dealertop80:1142783476169441401>": [
+    "dealertop80",
+    "deathdealerrobetopt80"
+  ],
+  "<:wardenboots80:1142782587878776922>": [
+    "wardenboots80",
+    "deathwardenbootst80"
+  ],
+  "<:wardengloves80:1142782591104204880>": [
+    "wardengloves80",
+    "deathwardenglovest80"
+  ],
+  "<:wardenhood80:1142782592878387321>": [
+    "wardenhood80",
+    "deathwardenhoodt80"
+  ],
+  "<:wardenlegs80:1142782596770713712>": [
+    "wardenlegs80",
+    "deathwardenrobelegst80"
+  ],
+  "<:wardentop80:1142784247543894056>": [
+    "wardentop80",
+    "deathwardenrobetopt80"
+  ],
+  "<:wardenboots90:1142770711316938774>": [
+    "wardenboots90",
+    "deathwardenbootst90"
+  ],
+  "<:wardengloves90:1142770714869514380>": [
+    "wardengloves90",
+    "deathwardenglovest90"
+  ],
+  "<:wardenhood90:1142770718468223027>": [
+    "wardenhood90",
+    "deathwardenhoodt90"
+  ],
+  "<:wardenlegs90:1142770705688174652>": [
+    "wardenlegs90",
+    "deathwardenrobelegst90"
+  ],
+  "<:wardentop90:1142770709530161192>": [
+    "wardentop90",
+    "deathwardenrobetopt90"
   ]
 }
