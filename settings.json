@@ -5118,7 +5118,8 @@
     "reaverscroll"
   ],
   "<:aggressionscrim:1022562486588821555>": [
-    "aggressionscrim"
+    "aggressionscrim",
+    "aggroscrim"
   ],
   "<:gricoswift:1022926109597237329>": [
     "gricoswift",
@@ -5917,7 +5918,8 @@
   ],
   "<:fingerofdeath:1137809115066937414>": [
     "fingerofdeath",
-    "fod"
+    "fod",
+    "finger"
   ],
   "<:greaterboneshield:1137809118283976814>": [
     "greaterboneshield",
@@ -5950,7 +5952,7 @@
   ],
   "<:spectralscythe:1137809145706319892>": [
     "spectralscythe",
-	"specscythe"
+	  "specscythe"
   ],
   "<:spectralscythe2:1137809149690916945>": [
     "spectralscythe2",
@@ -6016,9 +6018,9 @@
   ],
   "<:conjurezombie:1137809200219684924>": [
     "conjurezombie",
-	"conjzombie",
-	"conjurezom",
-	"conjzom"
+	  "conjzombie",
+	  "conjurezom",
+	  "conjzom"
   ],
   "<:conjurewarrior:1137809204112011274>": [
     "conjurewarrior",
@@ -6038,7 +6040,7 @@
   ],
   "<:handofdoom:1137940979207376946>": [
     "handofdoom",
-	"hod"
+	  "hod"
   ],
   "<:handoffate:1137940981988196445>": [
     "handoffate",
@@ -6262,8 +6264,31 @@
     "wardentop90",
     "deathwardenrobetopt90"
   ],
-  "<:firstnecrohelm:1142416979957923952>": [
-    "firstnecrohelm",
-    "crownofthefirstnecromancer"
+  "<:necromancy:1148995625896120460>": [
+    "necromancy"
+  ],
+  "<:haunted:1143642262165790911>": [
+    "haunted",
+    "haunticon",
+    "haunt"
+  ],
+  "<:deathspark:1143642264850141205>": [
+    "deathspark",
+    "dspark"
+  ],
+  "<:deathspark2:1143642268193009724>": [
+    "deathspark2",
+    "dspark2",
+    "deathsparkcharging",
+    "dsparkcharging"
+  ],
+  "<:dragonpick:1145061199118086215>": [
+    "dpick",
+    "dragonpick",
+    "dragonpickaxe"
+  ],
+  "<:blightbolt:1146866649505468597>": [
+    "blightbolt",
+    "blightbolts"
   ]
 }
