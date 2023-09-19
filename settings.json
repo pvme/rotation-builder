@@ -1039,7 +1039,7 @@
   "<:virtusboots:569592271704424461>": [
     "virtusboots"
   ],
-  "<:magekiln:569592271922528271>": [
+  "<:kilnmage:1153768065427853354>": [
     "mageKiln"
   ],
   "<:vorago:572867742613635082>": [
@@ -1685,9 +1685,6 @@
   ],
   "<:verachelm:854475442157256745>": [
     "verachelm"
-  ],
-  "<:icenihil:854475442164334592>": [
-    "icenihil"
   ],
   "<:bloodnihil:854475442169053194>": [
     "bloodnihil"
@@ -2852,6 +2849,9 @@
   ],
   "<:kilnmelee:602582045553590274>": [
     "KilnMelee"
+  ],
+  "<:kilnnecro:1153772314215858247>": [
+    "KilnNecro"
   ],
   "<:dba:603979368850653216>": [
     "DBA"
@@ -4097,13 +4097,17 @@
     "igneouskalket",
     "kalket"
   ],
-  "<:igneouskalmej:902209626408382494>": [
+  "<:igneouskalmej:1153772938252787793>": [
     "igneouskalmej",
     "kalmej"
   ],
   "<:igneouskalxil:902209626404171786>": [
     "igneouskalxil",
     "kalxil"
+  ],
+  "<:igneouskalmor:1139200072438005851>": [
+    "igneouskalmor",
+    "kalmor"
   ],
   "<:igneouskalzuk:902209626479685734>": [
     "igneouskalzuk",
@@ -6142,9 +6146,6 @@
     "soulboundlantern",
     "t95skulllantern"
   ],
-  "<:igneouskalmor:1139200072438005851>": [
-    "igneouskalmor"
-  ],
   "<:goldacc:1134866724043358218>": [
     "goldacc",
     "goldaccumulator"
@@ -6290,9 +6291,6 @@
   "<:blightbolt:1146866649505468597>": [
     "blightbolt",
     "blightbolts"
-  ],
-  "<:demonslayergloves:1004325689836716103>": [
-    "demonslayergloves"
   ],
   "<:icenihil:854475442164334592>": [
     "icenihil",
