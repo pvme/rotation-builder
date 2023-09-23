@@ -1353,7 +1353,8 @@
     "heightenedsenses"
   ],
   "<:conservationofenergy:697808773711921195>": [
-    "conservationofenergy"
+    "conservationofenergy",
+    "coe"
   ],
   "<:furyofthesmall:697808773917573233>": [
     "furyofthesmall"
@@ -1362,7 +1363,8 @@
     "deathward"
   ],
   "<:berserkersfury:697808774106185768>": [
-    "berserkersfury"
+    "berserkersfury",
+    "zerkrelic"
   ],
   "<:fontoflife:698225967679930408>": [
     "fontoflife"
@@ -1430,7 +1432,9 @@
     "dragonclawoh"
   ],
   "<:dragonclaw:779048041088024606>": [
-    "dragonclaw"
+    "dragonclaw",
+    "dclaw",
+    "dclaws"
   ],
   "<:eofgreen:780401412727242773>": [
     "eofgreen"
@@ -3758,7 +3762,8 @@
     "ricocaroming"
   ],
   "<:gricocaroming:867678153966878740>": [
-    "gricocaroming"
+    "gricocaroming",
+    "carominggrico"
   ],
   "<:cadeturtling:867678153883516958>": [
     "cadeturtling"
@@ -3777,13 +3782,16 @@
     "pfsun"
   ],
   "<:piercingenergising:867678153979854868>": [
-    "piercingenergising"
+    "piercingenergising",
+    "epierce"
   ],
   "<:sliceenergising:867678153757294673>": [
-    "sliceenergising"
+    "sliceenergising",
+    "eslice"
   ],
   "<:wrackenergising:867678153429221387>": [
-    "wrackenergising"
+    "wrackenergising",
+    "ewrack"
   ],
   "<:bdmobile:867678153668820992>": [
     "bdmobile"
@@ -4062,7 +4070,8 @@
     "queueing"
   ],
   "<:deathsporearrows:900758234527301642>": [
-    "deathsporearrows"
+    "deathsporearrows",
+    "deathspores"
   ],
   "<:splinteringarrows:900758234246299649>": [
     "splinteringarrows"
@@ -5461,10 +5470,12 @@
     "dragon2hsword"
   ],
   "<:dragonlongsword:1048592042399383713>": [
-    "dragonlongsword"
+    "dragonlongsword",
+    "dlong"
   ],
   "<:dragonscimitar:1048592044731400252>": [
-    "dragonscimitar"
+    "dragonscimitar",
+    "dscim"
   ],
   "<:holyaggroverload:1049230112849133589>": [
     "holyaggroverload",
