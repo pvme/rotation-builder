@@ -5921,7 +5921,7 @@
   "<:singletarget:1137770977506369596>": [
     "singletarget"
   ],
-  "<:deathskulls:1137809106640572583>": [
+  "<:deathskulls:1159434663903899728>": [
     "deathskulls"
   ],
   "<:deflectnecromancy:1137809111178813471>": [
@@ -5929,7 +5929,7 @@
     "deflectnecromancy",
     "necropray"
   ],
-  "<:fingerofdeath:1137809115066937414>": [
+  "<:fingerofdeath:1159434801938432010>": [
     "fingerofdeath",
     "fod",
     "finger"
@@ -5949,7 +5949,7 @@
   "<:lifetransfer:1137809128136388819>": [
     "lifetransfer"
   ],
-  "<:livingdeath:1137809132485890108>": [
+  "<:livingdeath:1159434908486357072>": [
     "livingdeath",
     "ld"
   ],
@@ -6003,14 +6003,15 @@
     "umteleport",
     "umtele"
   ],
-  "<:volleyofsouls:1137809182364540989>": [
+  "<:volleyofsouls:1159435029592686642>": [
     "volleyofsouls",
-    "vos"
+    "vos",
+    "volley"
   ],
-  "<:bloat:1137809185753550929>": [
+  "<:bloat:1159433682403201044>": [
     "bloat"
   ],
-  "<:bloodsiphon:1137809187485782149>": [
+  "<:bloodsiphon:1159434279311380532>": [
     "bloodsiphon"
   ],
   "<:commandzombie:1137809191231295549>": [
@@ -6025,7 +6026,7 @@
     "comwarrior",
     "commandwar"
   ],
-  "<:commandghost:1137809196864262154>": [
+  "<:commandghost:1159434409913634816>": [
     "commandghost",
     "comghost"
   ],
@@ -6034,12 +6035,6 @@
 	  "conjzombie",
 	  "conjurezom",
 	  "conjzom"
-  ],
-  "<:conjurewarrior:1137809204112011274>": [
-    "conjurewarrior",
-    "conjwarrior",
-    "conjurewar",
-    "conjwar"
   ],
   "<:conjureghost:1137809206423060632>": [
     "conjureghost",
@@ -6107,11 +6102,15 @@
     "comskeleton",
     "commandskele"
   ],
-  "<:conjureskeleton:1137809204112011274>": [
+  "<:conjureskeleton:1159434516658651147>": [
     "conjureskeleton",
     "conjskeleton",
     "conjureskele",
-    "conjskele"
+    "conjskele",
+    "conjurewarrior",
+    "conjwarrior",
+    "conjurewar",
+    "conjwar"
   ],
   "<:deathguard60:1138809270650032160>": [
     "deathguard60",
