@@ -1,5 +1,58 @@
 const discordEmojiRegex = new RegExp("<:([^:]{2,}):([0-9]+)>", 'i');
 
+var emojiLUT = [];
+// var emojiSuggestions = [];
+
+
+async function rawGithubGetRequest(url) {
+    const res = await fetch(url, {
+        method: 'GET'
+    });
+    
+    if (!res.ok)
+        throw new Error(await res.text());
+
+    return res;
+}
+
+async function rawGithubJSONRequest(url) {
+    const res = await rawGithubGetRequest(url);
+    return await res.json();
+}
+
+async function setEmojiLUTAndSuggestions() {
+    const emojisJSON = await rawGithubJSONRequest('https://raw.githubusercontent.com/pvme/pvme-settings/master/emojis/emojis.json');
+    // emojiLUT = [];
+    let emojiSuggestions = [];
+    for (const category of emojisJSON.categories) {
+        for (const emoji of category.emojis) {
+            const emojiFormat = `<:${emoji.emoji_name}:${emoji.emoji_id}>`;
+            emojiLUT.push([emoji.emoji_name, emojiFormat]);
+            emojiSuggestions.push(emoji.emoji_name);
+            for (const alias of emoji.aliases) {
+                emojiLUT.push([alias, emojiFormat]);
+                emojiSuggestions.push(alias);
+            }
+        }
+    }
+
+    emojiLUT.sort( (a, b) => {
+        return b[0].length - a[0].length;
+    });
+
+    emojiSuggestions.sort( (a, b) => {
+        return a.length - b.length;
+    });
+
+    $("#input").asuggest(emojiSuggestions, {
+        'autoComplete': false,
+        'cycleOnTab': true,
+        'ignoreCase': true,
+        'endingSymbols': '',
+        'stopSuggestionKeys': [$.asuggestKeys.RETURN, $.asuggestKeys.LEFT],
+        'delimiters': '\n ' // ideally not ' ' but requires modification to asuggest
+    });
+}
 
 function reverse(str) {
     let reversed = "";
@@ -14,19 +67,20 @@ $(document).ready(function() {
     let textInput = document.getElementById('input');
     let pOutput = document.getElementById('output');
     let clipboardText = "";
+    
+    setEmojiLUTAndSuggestions();
 
-    $("#input").asuggest(emojiSuggestions, {
-        'autoComplete': false,
-        'cycleOnTab': true,
-        'ignoreCase': true,
-        'endingSymbols': '',
-        'stopSuggestionKeys': [$.asuggestKeys.RETURN, $.asuggestKeys.LEFT],
-        'delimiters': '\n ' // ideally not ' ' but requires modification to asuggest
-    });
+    // $("#input").asuggest(emojiSuggestions, {
+    //     'autoComplete': false,
+    //     'cycleOnTab': true,
+    //     'ignoreCase': true,
+    //     'endingSymbols': '',
+    //     'stopSuggestionKeys': [$.asuggestKeys.RETURN, $.asuggestKeys.LEFT],
+    //     'delimiters': '\n ' // ideally not ' ' but requires modification to asuggest
+    // });
 
     // handle input text area changes
     $('#input').on('input propertychange paste', function() {
-
         let input = textInput.value;
         const originalInput = input;
 
@@ -43,12 +97,12 @@ $(document).ready(function() {
         let outputSections = output.split(/(\[.*?\])/gi);   //split 'barge [barge]' to ['barge ', '[barge]']
         for (const emoji of emojiLUT) {
             for (let i=0; i < outputSections.length; i++) {
-
+                
                 // check that the section is not contained within '[]' really inefficient but it works
                 if (!(outputSections[i].startsWith('[') && outputSections[i].endsWith(']'))) {
 
                     // check that the text contains the alias
-                    if (outputSections[i].toLowerCase().includes(emoji[0])) {
+                    if (outputSections[i].toLowerCase().includes(emoji[0])) {   
                         outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), '<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png?v=1">');
                     }
                 }
