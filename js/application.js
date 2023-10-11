@@ -21,7 +21,7 @@ async function rawGithubJSONRequest(url) {
 }
 
 async function setEmojiLUTAndSuggestions() {
-    const emojisJSON = await rawGithubJSONRequest('https://raw.githubusercontent.com/pvme/pvme-settings/master/emojis.json');
+    const emojisJSON = await rawGithubJSONRequest('https://raw.githubusercontent.com/pvme/pvme-settings/master/emojis/emojis.json');
     // emojiLUT = [];
     let emojiSuggestions = [];
     for (const category of emojisJSON.categories) {
