@@ -156,6 +156,29 @@ $(document).ready(function() {
         navigator.clipboard.writeText(copyResult);
     });
 
+    // handle export to .txt button clicked
+     $('#exportToTxt').click(function() {
+        let copyResult = clipboardText;
+        
+        // very pepega way of converting images back to emojis
+        for (const emoji of emojiLUT) {
+            copyResult = copyResult.replace(new RegExp('<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png.v=1">', 'g'), emoji[1]);
+        }
+         const file = new File([copyResult], 'RotationBuilderExport.txt', {
+             type: 'text/plain',
+         });
+         const link = document.createElement('a');
+         const url = URL.createObjectURL(file);
+
+         link.href = url;
+         link.download = file.name;
+         document.body.appendChild(link);
+         link.click();
+
+         document.body.removeChild(link);
+         window.URL.revokeObjectURL(url);
+    });
+
     // handle change view button clicked
     $('#changeView').click(function() {
         let inputContainer = document.getElementById('inputContainer');
