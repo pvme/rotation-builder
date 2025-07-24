@@ -103,7 +103,10 @@ $(document).ready(function() {
 
                     // check that the text contains the alias
                     if (outputSections[i].toLowerCase().includes(emoji[0])) {   
-                        outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), '<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/' + discordEmojiRegex.exec(emoji[1])[2] + '.png?v=1">');
+                        // replace emoji aliases with ${{emojiId}}
+                        // this template will later be replaced with the actual image url
+                        // this is because the image url contains class="disc-emoji" which conflicts with a emoji alias names "sc" 
+                        outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), '${{' + discordEmojiRegex.exec(emoji[1])[2] + '}}');
                     }
                 }
             }
@@ -118,9 +121,19 @@ $(document).ready(function() {
 
         // update input and output text
         textInput.value = input;
-        clipboardText = outputSections.join('');
+        // clipboardText = outputSections.join('');
 
-        pOutput.innerHTML = clipboardText.replace(/\n/g, '<br>');
+        pOutput.innerHTML = outputSections
+            // convert sections back to string
+            .join('')
+
+            // replace ${{emojiId}} with <img class="disc-emoji" src="https://cdn.discordapp.com/emojis/emojiId.png?v=1">
+            .replace(/\${{(\d+)}}/g, (_, emojiId) =>
+                `<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/${emojiId}.png?v=1">`
+            )
+
+            // replace \n with <br>
+            .replace(/\n/g, '<br>');
 
         // set caret to last edited item instead of always at the end of the text area
         // e.g. when modifying "hello bye" to "hello -> bye" the caret ends at "hello →| bye"
