@@ -121,17 +121,16 @@ $(document).ready(function() {
 
         // update input and output text
         textInput.value = input;
-        // clipboardText = outputSections.join('');
-
-        pOutput.innerHTML = outputSections
+        clipboardText = outputSections
             // convert sections back to string
             .join('')
-
+            
             // replace ${{emojiId}} with <img class="disc-emoji" src="https://cdn.discordapp.com/emojis/emojiId.png?v=1">
             .replace(/\${{(\d+)}}/g, (_, emojiId) =>
                 `<img class="disc-emoji" src="https://cdn.discordapp.com/emojis/${emojiId}.png?v=1">`
-            )
+            );
 
+        pOutput.innerHTML = clipboardText
             // replace \n with <br>
             .replace(/\n/g, '<br>');
 
