@@ -27,14 +27,16 @@ async function setEmojiLUTAndSuggestions() {
     for (const category of emojisJSON.categories) {
         for (const emoji of category.emojis) {
             const emojiFormat = `<:${emoji.emoji_name}:${emoji.emoji_id}>`;
-            emojiLUT.push([emoji.emoji_name, emojiFormat]);
+            emojiLUT.push([emoji.emoji_name, [emojiFormat]]);
             emojiSuggestions.push(emoji.emoji_name);
             for (const alias of emoji.aliases) {
-                emojiLUT.push([alias, emojiFormat]);
+                emojiLUT.push([alias, [emojiFormat]]);
                 emojiSuggestions.push(alias);
             }
         }
     }
+    emojiLUT.push(["wenspore", [`<:wenarrow:971025697046925362>`,`<:grico:787904334812807238>`,`<:deathsporearrows:900758234527301642>`]]);
+    emojiSuggestions.push("wenspore");
 
     emojiLUT.sort( (a, b) => {
         return b[0].length - a[0].length;
@@ -106,7 +108,12 @@ $(document).ready(function() {
                         // replace emoji aliases with ${{emojiId}}
                         // this template will later be replaced with the actual image url
                         // this is because the image url contains class="disc-emoji" which conflicts with a emoji alias names "sc" 
-                        outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), '${{' + discordEmojiRegex.exec(emoji[1])[2] + '}}');
+                        let replacementString = '';
+                        for(const replacementEmoji of emoji[1]) {
+                            replacementString += '${{' + discordEmojiRegex.exec(replacementEmoji)[2] + '}} ';
+                        }
+                        replacementString.trim();
+                        outputSections[i] = outputSections[i].replace(new RegExp(emoji[0], "ig"), replacementString);
                     }
                 }
             }
