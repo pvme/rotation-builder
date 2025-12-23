@@ -21,17 +21,20 @@ async function rawGithubJSONRequest(url) {
 }
 
 async function setEmojiLUTAndSuggestions() {
-    const emojisJSON = await rawGithubJSONRequest('https://raw.githubusercontent.com/pvme/pvme-settings/master/emojis/emojis.json');
-    // emojiLUT = [];
+    const emojisJSON = await rawGithubJSONRequest('https://raw.githubusercontent.com/pvme/pvme-settings/master/emojis/emojis_v2.json');
     let emojiSuggestions = [];
     for (const category of emojisJSON.categories) {
         for (const emoji of category.emojis) {
-            const emojiFormat = `<:${emoji.emoji_name}:${emoji.emoji_id}>`;
-            emojiLUT.push([emoji.emoji_name, [emojiFormat]]);
-            emojiSuggestions.push(emoji.emoji_name);
-            for (const alias of emoji.aliases) {
-                emojiLUT.push([alias, [emojiFormat]]);
-                emojiSuggestions.push(alias);
+            const emojiFormat = `<:${emoji.id}:${emoji.emoji_id}>`;
+
+            emojiLUT.push([emoji.id, [emojiFormat]]);
+            emojiSuggestions.push(emoji.id);
+
+            if (emoji.id_aliases) {
+                for (const alias of emoji.id_aliases) {
+                    emojiLUT.push([alias, [emojiFormat]]);
+                    emojiSuggestions.push(alias);
+                }
             }
         }
     }
