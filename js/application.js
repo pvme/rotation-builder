@@ -25,6 +25,8 @@ async function setEmojiLUTAndSuggestions() {
     let emojiSuggestions = [];
     for (const category of emojisJSON.categories) {
         for (const emoji of category.emojis) {
+            // skip entries in emojis_v2 that aren't actual discord emojis
+            if(!("emoji_id" in emoji)) continue;
             const emojiFormat = `<:${emoji.id}:${emoji.emoji_id}>`;
 
             emojiLUT.push([emoji.id, [emojiFormat]]);
